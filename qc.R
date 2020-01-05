@@ -6,19 +6,21 @@ genus.idx <- dat$Genus == "GENUS"
 species.idx <- dat$Species == "SPECIES"
 
 features <- c(
-  "butterfly_nectar" = 24,
-  "butterfly_larval" = 9,
-  "Hummingbirds" = 14,
-  "Moist_Soil" = 40 + 1, # plus wildcard for ferns
-  "Rock_sunny" = 32,
-  "Rock_shady" = 17,
-  "Groundcover" = 15,
-  "Deer_resistant" = 32 + 2,
-  "Coniferous_forest" = 27,
-  "Shade_garden" = 39,
+  butterfly_nectar = 24,
+  butterfly_larval = 9,
+  Hummingbirds = 14,
+  Moist_Soil = 40 + 1, # plus wildcard for ferns
+  Rock_sunny = 32,
+  Rock_shady = 17,
+  Groundcover = 15,
+  Deer_resistant = 32 + 2,
+  Coniferous_forest = 27,
+  Shade_garden = 39,
   Prairie = 56,
   Deciduous_forest = 43,
-  Mixed_border = 44
+  Mixed_border = 44,
+  Front_yard_sunny = 25,
+  Front_yard_shady = 24
 )
 for(feat in names(features))
 {
