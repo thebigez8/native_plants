@@ -17,7 +17,8 @@ features <- c(
   "Coniferous_forest" = 27,
   "Shade_garden" = 39,
   Prairie = 56,
-  Deciduous_forest = 43
+  Deciduous_forest = 43,
+  Mixed_border = 44
 )
 for(feat in names(features))
 {
