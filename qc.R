@@ -20,7 +20,8 @@ features <- c(
   Deciduous_forest = 43,
   Mixed_border = 44,
   Front_yard_sunny = 25,
-  Front_yard_shady = 24
+  Front_yard_shady = 24,
+  Front_yard_woody = 20
 )
 for(feat in names(features))
 {
