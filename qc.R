@@ -10,6 +10,8 @@ features <- c(
   butterfly_larval = 14,
   Hummingbirds = 17,
   Moist_Soil = 62 + 1, # plus wildcard for ferns
+  Pond = 1,
+  Shallow_water = 6,
   Rock_sunny = 32,
   Rock_shady = 17,
   Groundcover = 15,
