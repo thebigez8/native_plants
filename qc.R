@@ -6,10 +6,10 @@ genus.idx <- dat$Genus == "GENUS"
 species.idx <- dat$Species == "SPECIES"
 
 features <- c(
-  butterfly_nectar = 36,
-  butterfly_larval = 14,
+  Butterfly_nectar = 36,
+  Butterfly_larval = 14,
   Hummingbirds = 17,
-  Moist_Soil = 62 + 1, # plus wildcard for ferns
+  Moist_soil = 62 + 1, # plus wildcard for ferns
   Pond = 1,
   Shallow_water = 6,
   Rock_sunny = 32,

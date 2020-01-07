@@ -1,289 +1,289 @@
-"Genus","Species","Common","Shallow_water","Pond","Front_yard_woody","Front_yard_shady","Front_yard_sunny","Mixed_border","Deciduous_forest","Prairie","Shade_garden","Coniferous_forest","Deer_resistant","Groundcover","Rock_shady","Type","Zone","Full_Sun","Light_Shade","Partial_Shade","Full_Shade","Dry_Soil","Moist_Soil","Hummingbirds","butterfly_nectar","butterfly_larval","Rock_sunny"
-"Abies","balsamea","balsam fir",0,0,1,0,0,0,0,0,1,1,0,0,0,,,,,,,,0,0,0,0,0
-"Acer","rubrum","red maple",0,0,1,0,0,0,1,0,0,0,1,0,0,,,,,,,,1,0,0,0,0
-"Acer","saccharum","sugar maple",0,0,1,0,0,0,1,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Acer","saccharinum","silver maple",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,1,0,0,0,0
-"Acer","SPECIES","maples",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Acer","spicatum","mountain maple",0,0,0,0,0,0,0,0,0,1,1,0,0,,,,,,,,0,0,0,0,0
-"Actaea","rubra","red baneberry",0,0,0,1,0,0,1,0,1,1,1,0,0,,,,,,,,0,0,0,0,0
-"Actaea","SPECIES","baneberries",0,0,0,1,0,0,1,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Adiantum","pedatum","maidenhair fern",0,0,0,1,0,1,1,0,1,1,0,0,1,"fern",,,,,,,1,0,0,0,0
-"Agustache","foeniculum","blue giant hyssop",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,1,1,0,0
-"Allium","cernuum","nodding wild onion",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Allium","SPECIES","wild onions",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Allium","stellatum","prairie wild onion",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Allium","tricoccum","wild leek",0,0,0,0,0,0,0,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Alnus","incana","speckled alder",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,0,0,0,0
-"Amelanchier","arborea","downy serviceberry",0,0,0,0,0,0,0,1,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Amelanchier","x grandiflora","apple serviceberry",0,0,1,0,0,1,0,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Amelanchier","SPECIES","juneberries, serviceberries",0,0,0,0,0,0,0,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Amelanchier","stolonifera","running serviceberry",0,0,0,0,0,0,0,0,1,1,1,0,0,,,,,,,,0,0,0,0,0
-"Amorpha","canescens","leadplant",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Amorpha","fruticosa","false indigo",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,0,1,0,0
-"Amorpha","SPECIES","leadplant, false indigo",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Anaphalis","margaritacea","pearly everlasting",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,1
-"Andropogon","gerardii","big bluestem",0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Anemone","canadensis","Canada anemone",0,0,0,0,0,0,1,0,1,0,0,1,0,"flower",,,,,,,1,0,0,0,0
-"Anemone","quinquefolia","wood anemone",0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Anemone","SPECIES","anemones",0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Anemonella","thaliacroides","rue anemone",0,0,0,0,0,0,1,0,1,0,0,0,1,,,,,,,,0,0,0,0,0
-"Antennaria","SPECIES","pussytoes",0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,,,,0,0,1,0,1
-"Aquilegia","canadensis","Canada columbine",0,0,0,1,0,1,1,0,1,0,1,0,1,,,,,,,,0,1,0,0,1
-"Aralia","racemosa","American spikenard",0,0,0,1,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Arctostaphylos","uva-ursi","bearberry",0,0,0,0,0,0,0,0,0,1,0,1,0,,,,,,,,0,0,0,0,0
-"Arisaema","SPECIES","Jack-in-the-Pulpits",0,0,0,0,0,0,1,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Arisaema","triphyllum","Jack-in-the-Pulpit",0,0,0,1,0,0,1,0,1,0,1,0,0,"flower",,,,,,,1,0,0,0,0
-"Aronia","melanocarpa","black chokeberry",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,1,0,0,0,0
-"Asarum","canadense","wild ginger",0,0,0,1,0,0,1,0,1,0,1,1,1,,,,,,,,0,0,0,0,0
-"Asclepias","incarnata","Swamp milkweek",0,0,0,0,0,0,0,0,0,0,1,0,0,"flower",,,,,,,1,0,1,1,0
-"Asclepias","SPECIES","milkweeds, butterfly weed",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,1,1,0
-"Asclepias","tuberosa","butterfly weed",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,1,1,1,1
-"Asclepias","verticillata","whorled milkweed",0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,1,1,0
-"Asclepias","viridiflora","green milkweed",0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,1,1,0
-"Asplenium","platyneuron","ebony spleenwort",0,0,0,0,0,0,0,0,0,0,0,0,1,,,,,,,,0,0,0,0,1
-"Aster","cordifolius","heart-leaved aster",0,0,0,0,0,1,1,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Aster","ericoides","heath aster",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Aster","laevis","smooth aster",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Aster","macrophyllus","large-leaved aster",0,0,0,0,0,1,0,0,1,1,1,0,0,,,,,,,,0,0,0,0,0
-"Aster","novae-angliae","New England aster",0,0,0,0,1,1,0,1,0,0,1,0,0,"flower",,,,,,,1,0,1,1,0
-"Aster","oolentangiensis","sky-blue aster",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Aster","sericeus","silky aster",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Aster","SPECIES","asters",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Athyrium","filix-femina","lady fern",0,0,0,1,0,0,1,0,1,1,0,0,0,"fern",,,,,,,1,0,0,0,0
-"Baptisia","lactea","white wild indigo",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Baptisia","SPECIES","wild indigos",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Betula","alleghaniensis","yellow birch",0,0,0,0,0,0,1,0,0,1,1,0,0,,,,,,,,1,0,0,1,0
-"Betula","nigra","river birch",0,0,1,0,0,0,1,0,0,1,1,0,0,,,,,,,,1,0,0,1,0
-"Betula","papyrifera","paper birch",0,0,0,0,0,0,1,1,0,1,1,0,0,,,,,,,,0,0,0,1,0
-"Betula","SPECIES","birches",0,0,0,0,0,0,1,0,0,1,1,0,0,,,,,,,,0,0,0,1,0
-"Boltonia","asteroides","boltonia",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Bouteloua","curtipendula","side-oats grama",0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Calamagrostis","canadensis","blue joint",0,0,0,0,0,0,0,0,0,0,0,0,0,"grass",,,,,,,1,0,0,0,0
-"Calla","palustris","wild calla",1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Caltha","palustris","marsh marigold",0,0,0,0,0,0,1,0,0,1,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Campanula","americana","tall bellflower",0,0,0,0,0,1,1,0,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Campanula","rotundifolia","harebell",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Campanula","SPECIES","harebells, bellflowers",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Carex","pensylvanica","Pennsylvainia sedge",0,0,0,0,0,0,0,0,1,0,0,0,1,,,,,,,,0,0,0,1,0
-"Carex","SPECIES","sedges",0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,1,0
-"Carex","stricta","tussock sedge",1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,1,0
-"Carpinus","caroliniana","blue beech",0,0,1,0,0,0,1,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Carya","ovata","shagbark hickory",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Caulophyllum","thalictroides","blue cohosh",0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Ceanothus","americanus","New Jersey tea",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,0,1,1,0,0
-"Celtis","occidentalis","hackberry",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Cephalanthus","occidentalis","buttonbush",1,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,1,0,1,0,0
-"Chamaedaphne","calyculata","leather leaf",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Chelone","glabra","white turtlehead",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,1,1,0,0
-"Chelone","SPECIES","turtleheads",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,1,0,0,0
-"Claytonia","virginica","Virginia spring beauty",0,0,0,1,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Clematis","virginiana","virgin's bower",0,0,1,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Clintonia","borealis","bluebead lily",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Comptonia","peregrina","sweet fern",0,0,0,0,0,0,0,0,0,1,0,1,0,"fern",,,,,,,1,0,0,0,0
-"Coreopsis","palmata","stiff tickseed",0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,1
-"Coreopsis","SPECIES","coreopsis, tickseeds",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,1,0,1
-"Cornus","alternifolia","pagoda dogwood",0,0,1,0,0,1,0,0,1,1,0,0,0,,,,,,,,0,0,1,0,0
-"Cornus","canadensis","bunchberry",0,0,1,0,0,0,0,0,1,1,0,0,0,"flower",,,,,,,1,0,1,0,0
-"Cornus","racemosa","gray dogwood",0,0,1,0,0,0,0,1,1,1,0,0,0,,,,,,,,1,0,1,0,0
-"Cornus","stolonifera","red-osier dogwood",0,0,1,0,0,0,0,1,1,1,0,0,0,,,,,,,,1,0,1,0,0
-"Cornus","SPECIES","dogwoods",0,0,1,0,0,0,0,0,1,1,0,0,0,,,,,,,,0,0,1,0,0
-"Corylus","americana","American hazelnut",0,0,0,0,0,0,0,1,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Corylus","SPECIES","hazelnuts",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Cypripedium","calceolus","yellow lady's slipper",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Cystopteris","bulbifera","bulblet fern",0,0,0,0,0,0,0,0,0,0,0,0,1,"fern",,,,,,,1,0,0,0,0
-"Dalea","candida","white prairie clover",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Dalea","purpurea","purple prairie clover",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,1
-"Dentaria","laciniata","cut-laved toothwort",0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Deschampsia","caespitosa","tufted hair grass",0,0,0,0,0,0,0,0,0,0,0,0,0,"grass",,,,,,,1,0,0,0,0
-"Desmodium","canadense","showy tick trefoil",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Dicentra","cucullaria","Dutchman's breeches",0,0,0,1,0,0,1,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Dicentra","SPECIES","Dutchman's breeches, bleeding hearts",0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Dirca","palustris","leatherwood",0,0,1,0,0,1,0,0,1,1,1,0,0,,,,,,,,0,0,0,0,0
-"Dodecatheon","meadia","prairie shooting star",0,0,0,0,0,0,1,1,0,0,0,0,1,,,,,,,,0,0,0,0,1
-"Dryopteris","cristata","crested fern",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Dryopteris","marginalis","marginal shield fern",0,0,0,0,0,0,0,0,1,0,0,0,1,"fern",,,,,,,1,0,0,0,0
-"Echinacea","angustifolia","narrow-leaved purple coneflower",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Echinacea","SPECIES","purple coneflowers",0,0,0,0,1,1,0,0,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Elaeagnus","commutata","silverberry",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Elymus","canadensis","nodding wild rye",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Epilobium","angustifolium","fireweed",0,0,0,0,0,0,0,0,0,0,0,0,0,"flower",,,,,,,1,1,0,0,0
-"Epigaea","repens","trailing arbutus",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Equisetum","hyemale","tall scouring rush",0,0,0,0,0,0,0,0,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Eryngium","yuccifolium","rattlesnake master",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Erythronium","americanum","yellow trout lily",0,0,0,1,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Erythronium","SPECIES","trout lilies",0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Eupatorium","purpureum","sweet joe-pye weed",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,1,0,0,0,1
-"Eupatorium","SPECIES","Joe-pye weeds",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,1,0,0,0,1
-"Euphorbia","corollata","flowering spurge",0,0,0,0,1,0,0,1,0,0,1,1,0,,,,,,,,0,0,0,0,1
-"Fragaria","virginiana","wild strawberry",0,0,0,0,0,0,0,0,0,0,0,1,0,,,,,,,,0,0,1,0,0
-"Fraxinus","nigra","black ash",0,0,0,0,0,0,1,0,0,0,1,0,0,,,,,,,,1,0,0,0,0
-"Fraxinus","pennsylvanica","green ash",0,0,0,0,0,0,1,0,0,0,1,0,0,,,,,,,,1,0,0,0,0
-"Fraxinus","SPECIES","ashes",0,0,0,0,0,0,1,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Gaillardia","SPECIES","blanket flowers",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,1
-"Gaultheria","procumbens","wintergreen",0,0,0,0,0,0,0,0,0,1,0,0,1,,,,,,,,0,0,0,0,0
-"Gentiana","andrewsii","bottle gentian",0,0,0,0,0,1,0,1,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Gentiana","SPECIES","gentians",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"GENUS","SPECIES","ferns",0,0,0,0,0,0,0,0,0,0,0,0,0,"fern",,,,,,,1,0,0,0,0
-"Geranium","maculatum","wild geranium",0,0,0,1,0,0,1,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Geranium","SPECIES","wild geraniums",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Geum","SPECIES","prairie smokes",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Geum","triflorum","prairie smoke",0,0,0,0,1,1,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Gleditsia","tracanthos","honey locust",0,0,0,0,0,0,1,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Glyceria","SPECIES","manna grasses",1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Guara","SPECIES","guaras",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Gymnocladus","dioica","Kentucky coffee tree",0,0,1,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Hamamelis","SPECIES","witch hazel",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Hamamelis","virginiana","witch hazel",0,0,0,0,0,0,0,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Helenium","autumnale","autumn sneezeweed",0,0,0,0,1,1,0,0,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Helianthus","SPECIES","sunflowers",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Heliopsis","helianthoides","oxeye",0,0,0,0,1,1,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Hepatica","acutiloba","sharp-lobed hepatica",0,0,0,1,0,0,1,0,1,0,0,0,1,,,,,,,,0,0,0,0,0
-"Hepatica","americana","round-lobed hepatica",0,0,0,1,0,0,0,0,1,1,0,0,1,,,,,,,,0,0,0,0,0
-"Hepatica","SPECIES","hepaticas",0,0,0,1,0,0,0,0,1,0,0,0,1,,,,,,,,0,0,0,0,0
-"Heuchera","richardsonii","alumroot",0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,,,,0,0,0,0,0
-"Heuchera","SPECIES","alumroots",0,0,0,0,0,0,0,0,0,0,0,1,0,,,,,,,,0,0,0,0,0
-"Hydrophyllum","virginianum","Virginia water-leaf",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Ilex","verticillata","winterberry",0,0,1,0,0,0,0,0,0,1,1,0,0,,,,,,,,1,0,0,0,0
-"Iris","SPECIES","blue flags",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,0,0,0,0
-"Iris","versicolor","northern blue flag",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,1,0,0,0,0
-"Isopyrum","biternatum","false rue anemone",0,0,0,1,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Jeffersonia","diphylla","twinleaf",0,0,0,0,0,0,1,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Juglans","nigra","black walnut",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Juniperus","SPECIES","junipers",0,0,1,0,0,0,0,0,0,0,1,1,0,,,,,,,,0,0,0,0,0
-"Juniperus","virginiana","easter red cedar",0,0,1,0,0,0,0,1,0,0,1,1,0,,,,,,,,0,0,0,0,0
-"Kalmia","polifolia","bog laurel",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Larix","laricina","tamarack",0,0,0,0,0,0,0,0,0,1,1,0,0,,,,,,,,1,0,0,0,0
-"Ledum","groenlandicum","labrador tea",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,1,0,1,0,0
-"Liatris","aspera","rough blazing star",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,1,1,0,0
-"Liatris","ligulistylis","northern plains blazing-star",0,0,0,0,1,1,0,0,0,0,0,0,0,"flower",,,,,,,1,1,1,0,0
-"Liatris","punctata","dotted blazing star",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,1,1,0,1
-"Liatris","pycnostachya","great blazing star",0,0,0,0,1,1,0,1,0,0,0,0,0,"flower",,,,,,,1,1,1,0,0
-"Liatris","SPECIES","blazing star",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,1,1,0,0
-"Lilium","michiganense","Michigan lily",0,0,0,0,0,0,0,1,0,0,0,0,0,"flower",,,,,,,1,1,0,0,0
-"Lilium","SPECIES","lilies",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,1,0,0,0
-"Linnaea","borealis","twinflower",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Lobelia","cardinalis","cardinal flower",0,0,0,1,0,1,1,0,1,0,1,0,0,"flower",,,,,,,1,1,0,0,0
-"Lobelia","siphilitica","great lobelia",0,0,0,0,0,1,0,1,0,0,1,0,0,"flower",,,,,,,1,0,0,0,0
-"Lobelia","SPECIES","cardinal flower, lobelias",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Lupinus","perennis","wild lupine",0,0,0,0,1,1,0,1,0,0,0,0,0,,,,,,,,0,0,1,1,0
-"Lysimachia","ciliata","fringed loosestrife",0,0,0,0,0,0,0,0,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Maianthemum","canadense","Canada mayflower",0,0,0,1,0,0,1,0,1,1,0,1,0,,,,,,,,0,0,0,0,0
-"Matteuccia","struthiopteris","ostrich fern",0,0,0,1,0,1,1,0,1,1,0,0,0,"fern",,,,,,,1,0,0,0,0
-"Mertensia","virginica","Virginia bluebells",0,0,0,1,0,1,1,0,1,0,0,0,0,"flower",,,,,,,1,1,0,0,0
-"Mitchella","repens","partridgeberry",0,0,0,0,0,0,1,0,1,1,0,0,1,,,,,,,,0,0,0,0,0
-"Mitella","diphylla","two-leaved miterwort",0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Monarda","fistulosa","wild bergamot",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,1,1,0,0
-"Monarda","SPECIES","wild bergamot, bee balms",0,0,0,0,1,1,0,0,0,0,1,0,0,,,,,,,,0,1,1,0,0
-"Nymphaea","odorata","American white water lily",0,1,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Onoclea","sensibilis","sensitive fern",0,0,0,0,0,0,1,0,0,1,0,1,0,"fern",,,,,,,1,0,0,0,0
-"Opuntia","SPECIES","prickly pears",0,0,0,0,0,0,0,0,0,0,1,1,0,,,,,,,,0,0,0,0,1
-"Osmunda","cinnamomea","Cinnamon fern",0,0,0,0,0,0,1,0,1,1,0,1,0,,,,,,,,1,0,0,0,0
-"Osmunda","SPECIES","ferns",0,0,0,0,0,0,0,0,1,1,0,1,0,"fern",,,,,,,1,0,0,0,0
-"Ostrya","virginiana","ironwood",0,0,1,0,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Panicum","virgatum","switch grass",0,0,0,0,1,1,0,1,0,0,0,0,0,"grass",,,,,,,1,0,0,0,0
-"Parthenocissus","quinquefolia","woodbine",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,1,0,0,0
-"Penstemon","SPECIES","beardtongues",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,1,0,1,1
-"Phlox","divaricata","blue phlox",0,0,0,1,0,1,1,0,1,0,0,0,1,,,,,,,,0,1,1,0,0
-"Phlox","pilosa","prairie phlox",0,0,0,0,1,1,0,1,0,0,0,0,0,,,,,,,,0,1,1,0,1
-"Phlox","SPECIES","phloxes",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,1,1,0,0
-"Phyostegia","virginiana","obedient plant",0,0,0,0,1,1,0,1,0,0,0,0,0,"flower",,,,,,,1,1,0,0,1
-"Physocarpus","opulifolius","ninebark",0,0,1,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Picea","SPECIES","spruces",0,0,0,0,0,1,0,0,0,1,1,0,0,,,,,,,,0,0,0,0,0
-"Picea","mariana","black spruce",0,0,0,0,0,1,0,0,0,1,1,0,0,,,,,,,,1,0,0,0,0
-"Pinus","SPECIES","pines",0,0,0,0,0,1,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Podophyllum","peltaturn","May apple",0,0,0,0,0,0,1,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Polemonium","reptans","spreading Jacob's ladder",0,0,0,1,0,1,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Polygonatum","biflorum","giant Solomon's seal",0,0,0,1,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Polygonatum","SPECIES","Solomon's seals",0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Polypodium","virginianum","rock-cap fern",0,0,0,0,0,0,0,0,0,1,0,0,1,"fern",,,,,,,1,0,0,0,0
-"Polystichum","acrostichoides","Christmas fern",0,0,0,1,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Polystichum","braunii","Braun's holly fern",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Pontederia","cordata","pickerelweed",1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Populus","SPECIES","poplars",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,1,0
-"Potentilla","fruticosa","shrubby cinquefoil",0,0,1,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Potentilla","tridentata","three-toothed cinquefoil",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,1
-"Prunus","nigra","Canadian plum",0,0,1,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Prunus","americana","wild plum",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Prunus","pumila","sand cherry",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Prunus","serotina","black cherry",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Prunus","SPECIES","plums",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Prunus","virginiana","chokeberry",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Pteridium","aquilinum","bracken",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Pulsatilla","patens","pasque flower",0,0,0,0,1,1,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Pycnanthemum","SPECIES","mountain mints",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Pycnanthemum","virginianum","Virginia mountain mint",0,0,0,0,0,0,0,1,0,0,0,0,0,"flower",,,,,,,1,0,1,0,0
-"Quercus","SPECIES","oaks",0,0,1,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,0,1,0
-"Quercus","alba","white oak",0,0,1,0,0,0,1,1,0,0,1,0,0,,,,,,,,0,0,0,1,0
-"Quercus","bicolor","swamp white oak",0,0,1,0,0,0,0,0,0,0,1,0,0,,,,,,,,1,0,0,1,0
-"Quercus","ellipsoidalis","northern pin oak",0,0,1,0,0,0,1,1,0,0,1,0,0,,,,,,,,0,0,0,1,0
-"Quercus","macrocarpa","bur oak",0,0,1,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,0,1,0
-"Quercus","rubra","red oak",0,0,1,0,0,0,1,0,0,0,1,0,0,,,,,,,,0,0,0,1,0
-"Ratibida","pinnata","gray-headed coneflower",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,1
-"Ratibida","SPECIES","coneflowers",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,1
-"Rhus","glabra","smooth sumac",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Rhus","typhina","staghorn sumac",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Rosa","acicularis","prickly rose",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,1,0,0
-"Rosa","arkansana","prairie rose",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Rosa","SPECIES","wild roses",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Rubus","parviflorus","thimbleberry",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Rudbeckia","hirta","black-eyed Susan",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,1,1,0
-"Rudbeckia","SPECIES","black-eyed Susans",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,1,1,0
-"Rudbeckia","triloba","three-leaved coneflower",0,0,0,0,0,1,0,0,0,0,1,0,0,"flower",,,,,,,1,0,1,1,0
-"Ruellia","humilis","wild petunia",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Sagittaria","latifolia","broad-leaved arrowhead",1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Sanguinaira","canadense","bloodroot",0,0,0,1,0,0,1,0,1,0,1,0,0,,,,,,,,0,0,0,0,0
-"Salix","SPECIES","willows",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,0,0,1,0
-"Sambucus","SPECIES","elders",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Sambucus","canadensis","common elder",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,1,0,1,0,0
-"Schizachyrium","scoparium","little bluestem",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,1,0
-"Senecio","aureus","golden ragwort",0,0,0,0,0,1,0,0,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Silphium","laciniatum","compass plant",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Silphium","perfoliatum","cup plant",0,0,0,0,0,0,0,0,0,0,0,0,0,"flower",,,,,,,1,1,1,0,0
-"Silphium","SPECIES","compass plant, cup plant",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,1,0,0
-"Sisyrinchium","angustfolium","blue-eyed grass",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Sisyrinchium","SPECIES","blue-eyed grasses",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Smilacina","racemosa","falst Solomon's seal",0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Smilacina","SPECIES","falst Solomon's seals",0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Solidago","flexicaulis","zigzag goldenrod",0,0,0,1,0,0,0,1,1,0,1,0,0,,,,,,,,0,0,1,0,0
-"Solidago","nemoralis","gray goldenrod",0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,1
-"Solidago","rigida","stiff goldenrod",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Solidago","SPECIES","goldenrods",0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Solidago","speciosa","showy goldenrod",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,1,0,0
-"Sorbus","SPECIES","mountain ashes",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Sorghastrum","nutans","Indian grass",0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Sparobalus","heterolepis","prairie dropseed",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Spartina","Pectinata","prairie cordgrass",0,0,0,0,0,0,0,0,0,0,0,0,0,"grass",,,,,,,1,0,0,0,0
-"Spiraea","alba","white meadowsweet",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,1,0,1,0,0
-"Streptopus","roseus","rose twisted stalk",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Symphoricarpos","albus","snowberry",0,0,0,0,0,0,0,1,0,1,0,0,0,,,,,,,,0,1,0,1,0
-"Symphoricarpos","SPECIES","snowberry, wolfberry",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,1,0
-"Taxus","canadensis","Canada yew",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Thaliactrum","dasycarpum","tall meadow rue",0,0,0,0,0,0,0,1,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Thaliactrum","dioicum","early meadow rue",0,0,0,0,0,0,1,0,1,0,0,0,1,,,,,,,,0,0,0,0,0
-"Thuja","occidentails","white cedar",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,1,0,0,0,0
-"Tilia","americana","basswood",0,0,1,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Tradescantia","ohiensis","Ohio spiderwort",0,0,0,0,0,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Tradescantia","SPECIES","spiderworts",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,1
-"Trientalis","borealis","starflower",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Trillium","SPECIES","trilliums",0,0,0,1,0,0,1,0,1,0,0,0,0,,,,,,,,0,0,0,0,0
-"Tsuga","canadensis","eastern hemlock",0,0,1,0,0,0,0,0,1,1,1,0,0,,,,,,,,0,0,0,0,0
-"Uvularia","sessilifolia","pale bellwort",0,0,0,0,0,0,1,0,1,1,0,0,1,,,,,,,,0,0,0,0,0
-"Uvularia","SPECIES","bellworts",0,0,0,0,0,0,1,0,1,0,0,0,1,,,,,,,,0,0,0,0,0
-"Vaccinium","angustifolium","low-bush blueberry",0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,,,0,0,0,0,0
-"Verbena","hastata","blue vervain",0,0,0,0,0,1,0,0,0,0,1,0,0,"flower",,,,,,,1,0,0,0,0
-"Verbena","SPECIES","vervains",0,0,0,0,0,1,0,0,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Verbena","stricta","hoary vervain",0,0,0,0,1,1,0,1,0,0,1,0,0,,,,,,,,0,0,0,0,0
-"Vernonia","fasciculata","bunched ironweed",0,0,0,0,0,0,0,1,0,0,0,0,0,"flower",,,,,,,1,0,0,0,0
-"Veronicastrum","virginicum","Culver's root",0,0,0,0,0,1,0,1,0,0,1,0,0,"flower",,,,,,,1,0,0,0,0
-"Viburnum","SPECIES","viburnums",0,0,1,0,0,0,0,0,1,0,1,0,0,,,,,,,,0,0,1,0,0
-"Viburnum","lentago","nannyberry",0,0,1,0,0,0,0,1,1,0,1,0,0,,,,,,,,0,0,1,0,0
-"Viburnum","rafinesquianum","downy arrow wood",0,0,1,0,0,0,0,1,1,0,1,0,0,,,,,,,,0,0,1,0,0
-"Viburnum","trilobum","highbush cranberry",0,0,1,0,0,0,0,0,1,0,1,0,0,,,,,,,,1,0,1,0,0
-"Viola","pedata","bird's-foot violet",0,0,0,0,0,0,1,0,1,0,0,1,0,,,,,,,,0,0,0,1,1
-"Viola","sororia","Common blue violet",0,0,0,0,0,0,1,0,1,0,0,1,1,"flower",,,,,,,1,0,0,1,0
-"Viola","SPECIES","violets",0,0,0,0,0,0,1,0,1,0,0,1,0,,,,,,,,0,0,0,1,0
-"Vitis","riparia","wild grape",0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,0,0,0,0,0
-"Waldsteinia","fragarioides","barren strawberry",0,0,0,0,0,0,0,0,0,1,0,1,0,,,,,,,,0,0,0,1,0
-"Zizia","aptera","heart-leaved alexanders",0,0,0,0,1,1,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Zizia","aurea","golden alexander",0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,,0,0,0,0,1
-"Zizia","SPECIES","alexanders",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,0,0,0,0,1
+"Genus","Species","Common","Prairie","Deciduous_forest","Coniferous_forest","Deer_resistant","Mixed_border","Shade_garden","Butterfly_nectar","Butterfly_larval","Hummingbirds","Rock_sunny","Rock_shady","Pond","Shallow_water","Moist_soil","Groundcover","Front_yard_sunny","Front_yard_shady","Front_yard_woody","Type"
+"Abies","balsamea","balsam fir",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,
+"Acer","rubrum","red maple",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,
+"Acer","saccharum","sugar maple",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+"Acer","saccharinum","silver maple",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Acer","SPECIES","maples",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Acer","spicatum","mountain maple",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Actaea","rubra","red baneberry",0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Actaea","SPECIES","baneberries",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Adiantum","pedatum","maidenhair fern",0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,"fern"
+"Agustache","foeniculum","blue giant hyssop",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,
+"Allium","cernuum","nodding wild onion",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,
+"Allium","SPECIES","wild onions",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Allium","stellatum","prairie wild onion",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Allium","tricoccum","wild leek",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Alnus","incana","speckled alder",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Amelanchier","arborea","downy serviceberry",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Amelanchier","x grandiflora","apple serviceberry",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,
+"Amelanchier","SPECIES","juneberries, serviceberries",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Amelanchier","stolonifera","running serviceberry",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Amorpha","canescens","leadplant",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Amorpha","fruticosa","false indigo",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,
+"Amorpha","SPECIES","leadplant, false indigo",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Anaphalis","margaritacea","pearly everlasting",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
+"Andropogon","gerardii","big bluestem",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Anemone","canadensis","Canada anemone",0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"flower"
+"Anemone","quinquefolia","wood anemone",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Anemone","SPECIES","anemones",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Anemonella","thaliacroides","rue anemone",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,
+"Antennaria","SPECIES","pussytoes",1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,
+"Aquilegia","canadensis","Canada columbine",0,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,
+"Aralia","racemosa","American spikenard",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+"Arctostaphylos","uva-ursi","bearberry",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
+"Arisaema","SPECIES","Jack-in-the-Pulpits",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Arisaema","triphyllum","Jack-in-the-Pulpit",0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"flower"
+"Aronia","melanocarpa","black chokeberry",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Asarum","canadense","wild ginger",0,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,
+"Asclepias","incarnata","Swamp milkweek",0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,"flower"
+"Asclepias","SPECIES","milkweeds, butterfly weed",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,
+"Asclepias","tuberosa","butterfly weed",1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,
+"Asclepias","verticillata","whorled milkweed",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,
+"Asclepias","viridiflora","green milkweed",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,
+"Asplenium","platyneuron","ebony spleenwort",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,
+"Aster","cordifolius","heart-leaved aster",1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Aster","ericoides","heath aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Aster","laevis","smooth aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
+"Aster","macrophyllus","large-leaved aster",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Aster","novae-angliae","New England aster",1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,"flower"
+"Aster","oolentangiensis","sky-blue aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Aster","sericeus","silky aster",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Aster","SPECIES","asters",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Athyrium","filix-femina","lady fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern"
+"Baptisia","lactea","white wild indigo",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Baptisia","SPECIES","wild indigos",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Betula","alleghaniensis","yellow birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,
+"Betula","nigra","river birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,
+"Betula","papyrifera","paper birch",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+"Betula","SPECIES","birches",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+"Boltonia","asteroides","boltonia",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
+"Bouteloua","curtipendula","side-oats grama",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Calamagrostis","canadensis","blue joint",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass"
+"Calla","palustris","wild calla",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
+"Caltha","palustris","marsh marigold",0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Campanula","americana","tall bellflower",0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Campanula","rotundifolia","harebell",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Campanula","SPECIES","harebells, bellflowers",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Carex","pensylvanica","Pennsylvainia sedge",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,
+"Carex","SPECIES","sedges",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,
+"Carex","stricta","tussock sedge",0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,
+"Carpinus","caroliniana","blue beech",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+"Carya","ovata","shagbark hickory",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Caulophyllum","thalictroides","blue cohosh",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Ceanothus","americanus","New Jersey tea",1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,
+"Celtis","occidentalis","hackberry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Cephalanthus","occidentalis","buttonbush",0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,
+"Chamaedaphne","calyculata","leather leaf",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Chelone","glabra","white turtlehead",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,
+"Chelone","SPECIES","turtleheads",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
+"Claytonia","virginica","Virginia spring beauty",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Clematis","virginiana","virgin's bower",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+"Clintonia","borealis","bluebead lily",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Comptonia","peregrina","sweet fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,"fern"
+"Coreopsis","palmata","stiff tickseed",1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
+"Coreopsis","SPECIES","coreopsis, tickseeds",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
+"Cornus","alternifolia","pagoda dogwood",0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,
+"Cornus","canadensis","bunchberry",0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,"flower"
+"Cornus","racemosa","gray dogwood",1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,
+"Cornus","stolonifera","red-osier dogwood",1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,
+"Cornus","SPECIES","dogwoods",0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,
+"Corylus","americana","American hazelnut",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Corylus","SPECIES","hazelnuts",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Cypripedium","calceolus","yellow lady's slipper",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Cystopteris","bulbifera","bulblet fern",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern"
+"Dalea","candida","white prairie clover",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Dalea","purpurea","purple prairie clover",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,
+"Dentaria","laciniata","cut-laved toothwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Deschampsia","caespitosa","tufted hair grass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass"
+"Desmodium","canadense","showy tick trefoil",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Dicentra","cucullaria","Dutchman's breeches",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Dicentra","SPECIES","Dutchman's breeches, bleeding hearts",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Dirca","palustris","leatherwood",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,
+"Dodecatheon","meadia","prairie shooting star",1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,
+"Dryopteris","cristata","crested fern",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Dryopteris","marginalis","marginal shield fern",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,"fern"
+"Echinacea","angustifolia","narrow-leaved purple coneflower",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,
+"Echinacea","SPECIES","purple coneflowers",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,
+"Elaeagnus","commutata","silverberry",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Elymus","canadensis","nodding wild rye",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Epilobium","angustifolium","fireweed",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower"
+"Epigaea","repens","trailing arbutus",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Equisetum","hyemale","tall scouring rush",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Eryngium","yuccifolium","rattlesnake master",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Erythronium","americanum","yellow trout lily",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Erythronium","SPECIES","trout lilies",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Eupatorium","purpureum","sweet joe-pye weed",1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,
+"Eupatorium","SPECIES","Joe-pye weeds",0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,
+"Euphorbia","corollata","flowering spurge",1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,
+"Fragaria","virginiana","wild strawberry",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,
+"Fraxinus","nigra","black ash",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Fraxinus","pennsylvanica","green ash",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Fraxinus","SPECIES","ashes",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Gaillardia","SPECIES","blanket flowers",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,
+"Gaultheria","procumbens","wintergreen",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,
+"Gentiana","andrewsii","bottle gentian",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Gentiana","SPECIES","gentians",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"GENUS","SPECIES","ferns",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
+"Geranium","maculatum","wild geranium",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+"Geranium","SPECIES","wild geraniums",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Geum","SPECIES","prairie smokes",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Geum","triflorum","prairie smoke",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,
+"Gleditsia","tracanthos","honey locust",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Glyceria","SPECIES","manna grasses",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
+"Guara","SPECIES","guaras",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Gymnocladus","dioica","Kentucky coffee tree",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+"Hamamelis","SPECIES","witch hazel",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Hamamelis","virginiana","witch hazel",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Helenium","autumnale","autumn sneezeweed",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"flower"
+"Helianthus","SPECIES","sunflowers",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Heliopsis","helianthoides","oxeye",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,
+"Hepatica","acutiloba","sharp-lobed hepatica",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,
+"Hepatica","americana","round-lobed hepatica",0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,
+"Hepatica","SPECIES","hepaticas",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,
+"Heuchera","richardsonii","alumroot",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
+"Heuchera","SPECIES","alumroots",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
+"Hydrophyllum","virginianum","Virginia water-leaf",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Ilex","verticillata","winterberry",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,
+"Iris","SPECIES","blue flags",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Iris","versicolor","northern blue flag",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Isopyrum","biternatum","false rue anemone",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Jeffersonia","diphylla","twinleaf",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Juglans","nigra","black walnut",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Juniperus","SPECIES","junipers",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,
+"Juniperus","virginiana","easter red cedar",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,
+"Kalmia","polifolia","bog laurel",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Larix","laricina","tamarack",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Ledum","groenlandicum","labrador tea",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,
+"Liatris","aspera","rough blazing star",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,
+"Liatris","ligulistylis","northern plains blazing-star",0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,"flower"
+"Liatris","punctata","dotted blazing star",0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,
+"Liatris","pycnostachya","great blazing star",1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,"flower"
+"Liatris","SPECIES","blazing star",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,
+"Lilium","michiganense","Michigan lily",1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower"
+"Lilium","SPECIES","lilies",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+"Linnaea","borealis","twinflower",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Lobelia","cardinalis","cardinal flower",0,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,"flower"
+"Lobelia","siphilitica","great lobelia",1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Lobelia","SPECIES","cardinal flower, lobelias",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Lupinus","perennis","wild lupine",1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,
+"Lysimachia","ciliata","fringed loosestrife",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Maianthemum","canadense","Canada mayflower",0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,
+"Matteuccia","struthiopteris","ostrich fern",0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern"
+"Mertensia","virginica","Virginia bluebells",0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,"flower"
+"Mitchella","repens","partridgeberry",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,
+"Mitella","diphylla","two-leaved miterwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Monarda","fistulosa","wild bergamot",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,
+"Monarda","SPECIES","wild bergamot, bee balms",0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,
+"Nymphaea","odorata","American white water lily",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+"Onoclea","sensibilis","sensitive fern",0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,"fern"
+"Opuntia","SPECIES","prickly pears",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,
+"Osmunda","SPECIES","ferns",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern"
+"Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,
+"Panicum","virgatum","switch grass",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"grass"
+"Parthenocissus","quinquefolia","woodbine",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+"Penstemon","SPECIES","beardtongues",0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,
+"Phlox","divaricata","blue phlox",0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,
+"Phlox","pilosa","prairie phlox",1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,
+"Phlox","SPECIES","phloxes",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,
+"Phyostegia","virginiana","obedient plant",1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,"flower"
+"Physocarpus","opulifolius","ninebark",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,
+"Picea","SPECIES","spruces",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Picea","mariana","black spruce",0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Pinus","SPECIES","pines",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Podophyllum","peltaturn","May apple",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Polemonium","reptans","spreading Jacob's ladder",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Polygonatum","biflorum","giant Solomon's seal",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Polygonatum","SPECIES","Solomon's seals",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Polypodium","virginianum","rock-cap fern",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern"
+"Polystichum","acrostichoides","Christmas fern",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Pontederia","cordata","pickerelweed",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
+"Populus","SPECIES","poplars",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+"Potentilla","fruticosa","shrubby cinquefoil",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,
+"Potentilla","tridentata","three-toothed cinquefoil",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Prunus","nigra","Canadian plum",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,
+"Prunus","americana","wild plum",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Prunus","pumila","sand cherry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Prunus","SPECIES","plums",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Prunus","virginiana","chokeberry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Pulsatilla","patens","pasque flower",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,
+"Pycnanthemum","SPECIES","mountain mints",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Pycnanthemum","virginianum","Virginia mountain mint",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Quercus","SPECIES","oaks",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,
+"Quercus","alba","white oak",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,
+"Quercus","bicolor","swamp white oak",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,
+"Quercus","ellipsoidalis","northern pin oak",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,
+"Quercus","macrocarpa","bur oak",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,
+"Quercus","rubra","red oak",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,
+"Ratibida","pinnata","gray-headed coneflower",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,
+"Ratibida","SPECIES","coneflowers",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,
+"Rhus","glabra","smooth sumac",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Rhus","typhina","staghorn sumac",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Rosa","acicularis","prickly rose",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Rosa","arkansana","prairie rose",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Rosa","SPECIES","wild roses",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Rubus","parviflorus","thimbleberry",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Rudbeckia","hirta","black-eyed Susan",1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,
+"Rudbeckia","SPECIES","black-eyed Susans",0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,
+"Rudbeckia","triloba","three-leaved coneflower",0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,"flower"
+"Ruellia","humilis","wild petunia",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Sagittaria","latifolia","broad-leaved arrowhead",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
+"Sanguinaira","canadense","bloodroot",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Salix","SPECIES","willows",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,
+"Sambucus","SPECIES","elders",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Sambucus","canadensis","common elder",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,
+"Schizachyrium","scoparium","little bluestem",1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,
+"Senecio","aureus","golden ragwort",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Silphium","laciniatum","compass plant",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Silphium","perfoliatum","cup plant",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,"flower"
+"Silphium","SPECIES","compass plant, cup plant",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Sisyrinchium","angustfolium","blue-eyed grass",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Sisyrinchium","SPECIES","blue-eyed grasses",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Smilacina","racemosa","falst Solomon's seal",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Smilacina","SPECIES","falst Solomon's seals",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+"Solidago","flexicaulis","zigzag goldenrod",1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,
+"Solidago","nemoralis","gray goldenrod",1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,
+"Solidago","rigida","stiff goldenrod",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Solidago","SPECIES","goldenrods",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Solidago","speciosa","showy goldenrod",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,
+"Sorbus","SPECIES","mountain ashes",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Sorghastrum","nutans","Indian grass",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Sparobalus","heterolepis","prairie dropseed",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
+"Spartina","Pectinata","prairie cordgrass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass"
+"Spiraea","alba","white meadowsweet",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,
+"Streptopus","roseus","rose twisted stalk",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Symphoricarpos","albus","snowberry",1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,
+"Symphoricarpos","SPECIES","snowberry, wolfberry",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+"Taxus","canadensis","Canada yew",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Thaliactrum","dasycarpum","tall meadow rue",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Thaliactrum","dioicum","early meadow rue",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,
+"Thuja","occidentails","white cedar",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+"Tilia","americana","basswood",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+"Tradescantia","ohiensis","Ohio spiderwort",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Tradescantia","SPECIES","spiderworts",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Trientalis","borealis","starflower",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Trillium","SPECIES","trilliums",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
+"Tsuga","canadensis","eastern hemlock",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,
+"Uvularia","sessilifolia","pale bellwort",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,
+"Uvularia","SPECIES","bellworts",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,
+"Vaccinium","angustifolium","low-bush blueberry",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Verbena","hastata","blue vervain",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Verbena","SPECIES","vervains",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Verbena","stricta","hoary vervain",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
+"Vernonia","fasciculata","bunched ironweed",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Veronicastrum","virginicum","Culver's root",1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower"
+"Viburnum","SPECIES","viburnums",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,
+"Viburnum","lentago","nannyberry",1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,
+"Viburnum","rafinesquianum","downy arrow wood",1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,
+"Viburnum","trilobum","highbush cranberry",0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,
+"Viola","pedata","bird's-foot violet",0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,
+"Viola","sororia","Common blue violet",0,1,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,"flower"
+"Viola","SPECIES","violets",0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,
+"Vitis","riparia","wild grape",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Waldsteinia","fragarioides","barren strawberry",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,
+"Zizia","aptera","heart-leaved alexanders",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,
+"Zizia","aurea","golden alexander",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Zizia","SPECIES","alexanders",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
