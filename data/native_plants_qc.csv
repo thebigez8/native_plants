@@ -24,7 +24,7 @@
 "Amorpha","fruticosa","false indigo",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,
 "Amorpha","SPECIES","leadplant, false indigo",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 "Anaphalis","margaritacea","pearly everlasting",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
-"Andropogon","gerardii","big bluestem",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Andropogon","gerardii","big bluestem",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Anemone","canadensis","Canada anemone",0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"flower & groundcover"
 "Anemone","cylindrica","long-headed thimbleweed",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Anemone","quinquefolia","wood anemone",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -71,16 +71,22 @@
 "Betula","papyrifera","paper birch",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
 "Betula","SPECIES","birches",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
 "Boltonia","asteroides","boltonia",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
-"Bouteloua","curtipendula","side-oats grama",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
-"Calamagrostis","canadensis","blue joint",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass"
+"Bouteloua","curtipendula","side-oats grama",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Bouteloua","gracilis","blue grama",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Bouteloua","hirsuta","hairy grama",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Buchloe","dactyloides","buffalo grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Calamagrostis","canadensis","blue joint",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass & sedge"
 "Calla","palustris","wild calla",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"flower & groundcover"
 "Caltha","palustris","marsh marigold",0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Campanula","americana","tall bellflower",0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Campanula","rotundifolia","harebell",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Campanula","SPECIES","harebells, bellflowers",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
-"Carex","pensylvanica","Pennsylvainia sedge",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,
-"Carex","SPECIES","sedges",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,
-"Carex","stricta","tussock sedge",0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,
+"Carex","grayi","Gray's sedge",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Carex","muskingumensis","palm sedge",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Carex","pensylvanica","Pennsylvainia sedge",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,"grass & sedge"
+"Carex","plantaginea","plantain-leaved sedge",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Carex","SPECIES","sedges",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Carex","stricta","tussock sedge",0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
 "Carpinus","caroliniana","blue beech",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree"
 "Carya","cordiformis","bitternut hickory",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Carya","ovata","shagbark hickory",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
@@ -115,7 +121,7 @@
 "Dalea","purpurea","purple prairie clover",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Delphinium","carolinianum","prairie larkspur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Dentaria","laciniata","cut-leaved toothwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
-"Deschampsia","caespitosa","tufted hair grass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass"
+"Deschampsia","caespitosa","tufted hair grass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass & sedge"
 "Desmodium","canadense","showy tick trefoil, Canada tick trefoil",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Dicentra","canadensis","squirrel corn",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover"
 "Dicentra","cucullaria","Dutchman's breeches",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover"
@@ -127,7 +133,9 @@
 "Echinacea","angustifolia","narrow-leaved purple coneflower",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Echinacea","SPECIES","purple coneflowers",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Elaeagnus","commutata","silverberry",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-"Elymus","canadensis","nodding wild rye",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Elymus","canadensis","nodding wild rye",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Elymus","hystrix","bottlebrush grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Elymus","virginicus","Virginia wild rye",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Epilobium","angustifolium","fireweed",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
 "Epigaea","repens","trailing arbutus",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 "Equisetum","hyemale","tall scouring rush",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
@@ -166,7 +174,10 @@
 "Geum","SPECIES","prairie smokes",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Geum","triflorum","prairie smoke",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Gleditsia","tracanthos","honey locust",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
-"Glyceria","SPECIES","manna grasses",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
+"Glyceria","canadensis","rattlesnake grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
+"Glyceria","grandis","tall manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
+"Glyceria","striata","fowl manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
+"Glyceria","SPECIES","manna grasses",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
 "Guara","SPECIES","guaras",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
 "Gymnocladus","dioica","Kentucky coffee tree",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree"
 "Hamamelis","SPECIES","witch hazel",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -182,6 +193,7 @@
 "Hepatica","SPECIES","hepaticas",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,"flower & groundcover"
 "Heuchera","richardsonii","alumroot",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"flower & groundcover"
 "Heuchera","SPECIES","alumroots",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"flower & groundcover"
+"Hierochloe","odorata","sweet grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Hydrastis","canadensis","golden seal",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Hydrophyllum","virginianum","Virginia water-leaf",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 "Ilex","verticillata","winterberry",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,
@@ -197,6 +209,7 @@
 "Juniperus","SPECIES","junipers",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"evergreen conifer"
 "Juniperus","virginiana","easter red cedar",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"evergreen conifer"
 "Kalmia","polifolia","bog laurel",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Koeleria","macrantha","June grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Larix","laricina","tamarack",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree"
 "Ledum","groenlandicum","labrador tea",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,
 "Liatris","aspera","rough blazing star",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover"
@@ -232,7 +245,8 @@
 "Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,
 "Osmunda","SPECIES","ferns",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern"
 "Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree"
-"Panicum","virgatum","switch grass",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"grass"
+"Oryzopsis","hymenoides","Indian rice grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Panicum","virgatum","switch grass",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"grass & sedge"
 "Parthenium","integrifolium","wild quinine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Parthenocissus","quinquefolia","woodbine",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"vine"
 "Penstemon","gracilis","slender beardtongue",0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -304,7 +318,7 @@
 "Salix","SPECIES","willows",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,"deciduous tree"
 "Sambucus","SPECIES","elders",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
 "Sambucus","canadensis","common elder",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,
-"Schizachyrium","scoparium","little bluestem",1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,
+"Schizachyrium","scoparium","little bluestem",1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,"grass & sedge"
 "Senecio","aureus","golden ragwort",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Senecio","plattensis","prairie ragwort",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Silphium","laciniatum","compass plant",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -324,10 +338,13 @@
 "Sorbus","americana","American mountain ash",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Sorbus","decora","showy mountain ash",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Sorbus","SPECIES","mountain ashes",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
-"Sorghastrum","nutans","Indian grass",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
-"Sparobalus","heterolepis","prairie dropseed",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
-"Spartina","Pectinata","prairie cordgrass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass"
+"Sorghastrum","nutans","Indian grass",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Sporobolus","asper","rough dropseed",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Sporobolus","cryptandrus","sand dropseed",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Sporobolus","heterolepis","prairie dropseed",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"grass & sedge"
+"Spartina","pectinata","prairie cordgrass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass & sedge"
 "Spiraea","alba","white meadowsweet",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,
+"Stipa","spartea","porcupine grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Streptopus","roseus","rose twisted stalk",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Symphoricarpos","albus","snowberry",1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,
 "Symphoricarpos","SPECIES","snowberry, wolfberry",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
