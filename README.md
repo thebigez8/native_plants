@@ -25,3 +25,21 @@ Fields:
 - Groundcover: "Native Groundcovers", pg 58
 
 - Front_yard_sunny, Front_yard_shady, Front_yard_woody: "Front-Yard Native Plants", pg 59
+
+- Type: 
+
+    1. Flowers and Groundcovers, pg 74
+    
+    2. Grasses and Sedges, pg 126
+    
+    3. Ferns, pg 134
+    
+    4. Deciduous Trees, pg 142
+    
+    5. Deciduous Shrubs and Small Trees, pg 156
+    
+    6. Evergreen Conifers, pg 176
+    
+    7. Vines, pg 184
+
+
