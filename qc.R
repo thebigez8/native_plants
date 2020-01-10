@@ -42,7 +42,8 @@ dup.type <- xtabs(~ Genus + Type, data = dat) %>%
   as.data.frame() %>%
   filter(Freq > 0) %>%
   pull(Genus) %>%
-  anyDuplicated()
-if(dup.type) stop("Some type/genus mismatches")
+  (function(x) x[duplicated(x)]) %>%
+  as.character()
+if(length(setdiff(dup.type, c("Salix", "Prunus", "Cornus", "Potentilla")))) stop("Some type/genus mismatches")
 
 write.csv(dat, "data/native_plants_qc.csv", row.names = FALSE, na = "")
