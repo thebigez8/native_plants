@@ -53,7 +53,9 @@
 "Asclepias","tuberosa","butterfly weed",1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Asclepias","verticillata","whorled milkweed",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Asclepias","viridiflora","green milkweed",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
-"Asplenium","platyneuron","ebony spleenwort",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,
+"Asplenium","platyneuron","ebony spleenwort",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,"fern"
+"Asplenium","rhizophyllum","walking fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
+"Asplenium","trichomanes","maidenhair spleenwort",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Aster","cordifolius","heart-leaved aster",1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Aster","ericoides","heath aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Aster","laevis","smooth aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
@@ -68,11 +70,11 @@
 "Astragalus","canadensis","Canada milk vetch",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Athyrium","filix-femina","lady fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern"
 "Baptisia","lactea","white wild indigo",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
-"Baptisia","SPECIES","wild indigos",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,
-"Betula","alleghaniensis","yellow birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,
-"Betula","nigra","river birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,
-"Betula","papyrifera","paper birch",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
-"Betula","SPECIES","birches",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+"Baptisia","SPECIES","wild indigos",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
+"Betula","alleghaniensis","yellow birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,"deciduous tree"
+"Betula","nigra","river birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,"deciduous tree"
+"Betula","papyrifera","paper birch",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
+"Betula","SPECIES","birches",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Boltonia","asteroides","boltonia",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Bouteloua","curtipendula","side-oats grama",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Bouteloua","gracilis","blue grama",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
@@ -99,6 +101,7 @@
 "Celtis","occidentalis","hackberry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Cephalanthus","occidentalis","buttonbush",0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,"deciduous shrub & small tree"
 "Chamaedaphne","calyculata","leather leaf",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
+"Cheilanthes","lanosa","hairy lip fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Chelone","glabra","white turtlehead",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Chelone","obliqua","purple turtlehead",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Chelone","SPECIES","turtleheads",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover"
@@ -122,6 +125,7 @@
 "Crataegus","mollis","downy hawthorn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Cypripedium","calceolus","yellow lady's slipper",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Cystopteris","bulbifera","bulblet fern",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern"
+"Cystopteris","protrusa","protruding fragile fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Dalea","candida","white prairie clover",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Dalea","purpurea","purple prairie clover",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Delphinium","carolinianum","prairie larkspur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -134,7 +138,9 @@
 "Diervilla","lonicera","bush honeysuckle",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
 "Dirca","palustris","leatherwood",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree"
 "Dodecatheon","meadia","prairie shooting star",1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,"flower & groundcover"
-"Dryopteris","cristata","crested fern",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Dryopteris","carthusiana","spinulose shield fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
+"Dryopteris","cristata","crested fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
+"Dryopteris","goldiana","Goldie's fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Dryopteris","marginalis","marginal shield fern",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,"fern"
 "Echinacea","angustifolia","narrow-leaved purple coneflower",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Echinacea","SPECIES","purple coneflowers",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover"
@@ -142,7 +148,7 @@
 "Elymus","canadensis","nodding wild rye",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Elymus","hystrix","bottlebrush grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Elymus","virginicus","Virginia wild rye",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
-"Epilobium","angustifolium","fireweed",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,
+"Epilobium","angustifolium","fireweed",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Epigaea","repens","trailing arbutus",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
 "Equisetum","hyemale","tall scouring rush",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Eryngium","yuccifolium","rattlesnake master",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -169,6 +175,7 @@
 "Galium","boreale","northern bedstraw",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Gaultheria","hispidula","creeping snowberry",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Gaultheria","procumbens","wintergreen",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover"
+"Gaura","biennis","biennial guara",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Gaura","coccinea","scarlet guara",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Gentiana","andrewsii","bottle gentian",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Gentiana","flavida","yellowish gentian",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -185,7 +192,7 @@
 "Glyceria","grandis","tall manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
 "Glyceria","striata","fowl manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
 "Glyceria","SPECIES","manna grasses",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge"
-"Guara","SPECIES","guaras",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+"Guara","SPECIES","guaras",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Gymnocladus","dioica","Kentucky coffee tree",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree"
 "Hamamelis","SPECIES","witch hazel",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
 "Hamamelis","virginiana","witch hazel",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
@@ -202,7 +209,7 @@
 "Heuchera","SPECIES","alumroots",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"flower & groundcover"
 "Hierochloe","odorata","sweet grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Hydrastis","canadensis","golden seal",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
-"Hydrophyllum","virginianum","Virginia water-leaf",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Hydrophyllum","virginianum","Virginia water-leaf",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Ilex","verticillata","winterberry",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"deciduous shrub & small tree"
 "Iris","SPECIES","blue flags",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Iris","virginica","southern blue flag",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
@@ -219,6 +226,7 @@
 "Koeleria","macrantha","June grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
 "Larix","laricina","tamarack",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree"
 "Ledum","groenlandicum","labrador tea",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,"deciduous shrub & small tree"
+"Lespedeza","capitata","round-headed bush clover",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Liatris","aspera","rough blazing star",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Liatris","cylindracea","cylindric blazing star",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Liatris","ligulistylis","northern plains blazing-star",0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,"flower & groundcover"
@@ -241,7 +249,7 @@
 "Mitchella","repens","partridgeberry",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover"
 "Mitella","diphylla","two-leaved miterwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Monarda","fistulosa","wild bergamot",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover"
-"Monarda","SPECIES","wild bergamot, bee balms",0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,
+"Monarda","SPECIES","wild bergamot, bee balms",0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Morus","rubra","red mulberry",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Napaea","dioica","glade mallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Nymphaea","odorata","American white water lily",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,"flower & groundcover"
@@ -249,10 +257,11 @@
 "Opuntia","humifusa","eastern prickly pear",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover"
 "Opuntia","macrorhia","plains prickly pear",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover"
 "Opuntia","SPECIES","prickly pears",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover"
-"Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,
+"Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern"
 "Osmunda","SPECIES","ferns",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern"
 "Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree"
 "Oryzopsis","hymenoides","Indian rice grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge"
+"Pellaea","atropurpurea","purple cliff brake",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Panicum","virgatum","switch grass",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"grass & sedge"
 "Parthenium","integrifolium","wild quinine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Parthenocissus","quinquefolia","woodbine",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"vine"
@@ -278,8 +287,8 @@
 "Polygonatum","pubescens","hairy Solomon's seal",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Polygonatum","SPECIES","Solomon's seals",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Polypodium","virginianum","rock-cap fern",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern"
-"Polystichum","acrostichoides","Christmas fern",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,
-"Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Polystichum","acrostichoides","Christmas fern",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern"
+"Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Pontederia","cordata","pickerelweed",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"flower & groundcover"
 "Populus","deltoides","eastern cottonwood",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Populus","gradidentata","big-toothed aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
@@ -295,7 +304,7 @@
 "Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree"
 "Prunus","SPECIES","plums",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
 "Prunus","virginiana","chokeberry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree"
-"Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Pulsatilla","patens","pasque flower",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Pycnanthemum","SPECIES","mountain mints",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Pycnanthemum","virginianum","Virginia mountain mint",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
@@ -367,6 +376,7 @@
 "Taxus","canadensis","Canada yew",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer"
 "Thaliactrum","dasycarpum","tall meadow rue",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover"
 "Thaliactrum","dioicum","early meadow rue",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover"
+"Thelypteris","palustris","northern marsh fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Thuja","occidentails","white cedar",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"evergreen conifer"
 "Tilia","americana","basswood",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree"
 "Tradescantia","bracteata","bracted spiderwort",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
@@ -400,6 +410,7 @@
 "Viola","SPECIES","violets",0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,"flower & groundcover"
 "Vitis","riparia","wild grape",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"vine"
 "Waldsteinia","fragarioides","barren strawberry",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"flower & groundcover"
+"Woodsia","obtusa","blunt-lobed woodsia",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern"
 "Zizia","aptera","heart-leaved alexanders",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover"
 "Zizia","aurea","golden alexander",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"
 "Zizia","SPECIES","alexanders",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover"

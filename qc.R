@@ -45,5 +45,5 @@ dup.type <- xtabs(~ Genus + Type, data = dat) %>%
   (function(x) x[duplicated(x)]) %>%
   as.character()
 if(length(setdiff(dup.type, c("Salix", "Prunus", "Cornus", "Potentilla")))) stop("Some type/genus mismatches")
-
+if(anyNA(dat$Type)) stop("Missing type")
 write.csv(dat, "data/native_plants_qc.csv", row.names = FALSE, na = "")
