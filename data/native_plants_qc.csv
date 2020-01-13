@@ -9,7 +9,7 @@
 "Actaea","pachypoda","white baneberry",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","eastern MN",,,"moist, humus-rich, slightly acidic","partial shade to full shade"
 "Actaea","rubra","red baneberry",0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","2","woodland, throughout MN","12-30 in",,"moist, humus-rich, slightly acidic","partial shade to full shade"
 "Actaea","SPECIES","baneberries",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover",,,,,,
-"Adiantum","pedatum","maidenhair fern",0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,"fern",,,,,,
+"Adiantum","pedatum","maidenhair fern",0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,"fern","3","woodlands, E MN","12-24 in",,"moist, slightly acidic, rich","partial shade"
 "Agastache","foeniculum","blue giant hyssop",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover","2","upland, throughout MN","2-4 ft",,"well-drained","full sun to partial shade"
 "Allium","cernuum","nodding wild onion",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","woodland, open grassland, MN-Iowa border","12-24 in",,"average to rich, well-drained, neutral to slightly alkaline","full sun to very light shade"
 "Allium","SPECIES","wild onions",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
@@ -53,9 +53,9 @@
 "Asclepias","tuberosa","butterfly weed",1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairie, woodland edges, openings, SE MN","1-3 ft",,"moist to dry","full sun to light shade"
 "Asclepias","verticillata","whorled milkweed",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, southern MN, western MN",,,,
 "Asclepias","viridiflora","green milkweed",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, savanna, southern MN, western MN",,,"average to dry","full sun"
-"Asplenium","platyneuron","ebony spleenwort",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,"fern",,,,,,
-"Asplenium","rhizophyllum","walking fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
-"Asplenium","trichomanes","maidenhair spleenwort",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Asplenium","platyneuron","ebony spleenwort",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,"fern","4","woods, SE MN","8-18 in",,"loose, woodsy, neutral","partial shade"
+"Asplenium","rhizophyllum","walking fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","4","SE MN","4-12 in",,,
+"Asplenium","trichomanes","maidenhair spleenwort",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","east-facing cliffs, NE MN","3-6 in",,"moist",
 "Aster","cordifolius","heart-leaved aster",1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","open woods, clearings, SE MN","3-4 ft",,"moist, humus-rich","light shade to partial shade"
 "Aster","ericoides","heath aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, woodland edges, throughout MN","1-3 ft",,"average to rich, moist","full sun"
 "Aster","laevis","smooth aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover","2","prairie, woodland edges, all but far NE MN","2-3 ft",,"average to rich, moist, well-drained","full sun to light shade"
@@ -68,7 +68,7 @@
 "Aster","SPECIES","asters",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Aster","umbellatus","flat-topped aster",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","throughout MN","1-10 ft",,"moist","full shade to part shade"
 "Astragalus","canadensis","Canada milk vetch",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","2","prairie, open woodlands, throughout MN","1-4 ft",,,"full sun to part shade"
-"Athyrium","filix-femina","lady fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern",,,,,,
+"Athyrium","filix-femina","lady fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern","2","throughout MN","2-3 ft",,"slightly acidic, moist to wet","partial shade to full shade"
 "Baptisia","lactea","white wild indigo",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","4","open woods, prairie, savanna, SE MN","3-5 ft",,"well-drained","full sun to light shade"
 "Baptisia","SPECIES","wild indigos",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Betula","alleghaniensis","yellow birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,"deciduous tree",,,,,,
@@ -101,7 +101,7 @@
 "Celtis","occidentalis","hackberry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Cephalanthus","occidentalis","buttonbush",0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Chamaedaphne","calyculata","leather leaf",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
-"Cheilanthes","lanosa","hairy lip fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Cheilanthes","lanosa","hairy lip fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","4","east-central MN","8 in",,,"full sun to light shade"
 "Chelone","glabra","white turtlehead",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairie, open woods, eastern MN","1-3 ft",,"moist to wet, rich","full sun to light shade"
 "Chelone","obliqua","purple turtlehead",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover","4","woods, marshes, southern MN","1-3 ft",,"moist to wet, humus-rich","full sun to part shade"
 "Chelone","SPECIES","turtleheads",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover",,,,,,
@@ -124,8 +124,8 @@
 "Corylus","SPECIES","hazelnuts",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Crataegus","mollis","downy hawthorn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Cypripedium","calceolus","yellow lady's slipper",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","bogs, woods, N-facing slopes, NE MN","12-24 in",,"wet, humus-rich","light shade"
-"Cystopteris","bulbifera","bulblet fern",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern",,,,,,
-"Cystopteris","protrusa","protruding fragile fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Cystopteris","bulbifera","bulblet fern",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern","3","woods, streamside, E MN","12-30 in",,"moist, rich, slightly alkaline","shade"
+"Cystopteris","protrusa","protruding fragile fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","4","slopes, SE MN","10-12 in",,"slightly acidic to neutral, moist","shade"
 "Dalea","candida","white prairie clover",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, savanna, SW MN","3-4 ft",,,
 "Dalea","purpurea","purple prairie clover",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, savanna, open woods, SW MN","2-3 ft",,"moist to dry","full sun"
 "Delphinium","carolinianum","prairie larkspur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, savanna, woodland edges, SW MN","3-5 ft",,"sandy, well-drained","full sun to light shade"
@@ -138,10 +138,10 @@
 "Diervilla","lonicera","bush honeysuckle",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Dirca","palustris","leatherwood",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree",,,,,,
 "Dodecatheon","meadia","prairie shooting star",1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,"flower & groundcover","4","woods, mesic calcareous prairie, SE MN","10-20 in",,"rich","light shade to spring sun"
-"Dryopteris","carthusiana","spinulose shield fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
-"Dryopteris","cristata","crested fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
-"Dryopteris","goldiana","Goldie's fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
-"Dryopteris","marginalis","marginal shield fern",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,"fern",,,,,,
+"Dryopteris","carthusiana","spinulose shield fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","woods, throughout MN",,,"moist, acidic","partial shade"
+"Dryopteris","cristata","crested fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","woodlands, NE MN","18-30 in",,"moist","light shade"
+"Dryopteris","goldiana","Goldie's fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","4","woods, ravines, SE MN","3-5 ft",,"moist, slightly acidic, humus-rich","shady"
+"Dryopteris","marginalis","marginal shield fern",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,"fern","4","woods, SE MN","18-24 in",,,"shady"
 "Echinacea","angustifolia","narrow-leaved purple coneflower",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover","3","open woods, savanna, prairie, SW MN, western MN","1-3 ft",,"average to rich","full sun to light shade"
 "Echinacea","SPECIES","purple coneflowers",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover",,,,,,
 "Elaeagnus","commutata","silverberry",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
@@ -244,7 +244,7 @@
 "Lupinus","perennis","wild lupine",1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,"flower & groundcover","3","band from east-central to SE MN","15-30 in",,"dry, slightly acidic, well-drained","full sun to light shade"
 "Lysimachia","ciliata","fringed loosestrife",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","streamside, throughout MN","2-3 ft",,"moist, acidic, humus-rich","light shade"
 "Maianthemum","canadense","Canada mayflower",0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,"flower & groundcover","2","woodlands, lakeshores, clearings, all but SW MN","2-4 in",,"moist, acidic, humus-rich","part shade to deep shade"
-"Matteuccia","struthiopteris","ostrich fern",0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern",,,,,,
+"Matteuccia","struthiopteris","ostrich fern",0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern","4","swamps, woods, throughout MN","2-5 ft",,"wet, slightly acidic","part sun to full sun"
 "Mertensia","virginica","Virginia bluebells",0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,"flower & groundcover","3","deciduous woods, floodplains, streamsides, clearings, SE MN","12-24 in",,"moist, rich","part sun to shade"
 "Mitchella","repens","partridgeberry",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","woodlands, pinelands, clearings, east-central MN","1-3 in",,"moist",
 "Mitella","diphylla","two-leaved miterwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","north-facing bluffs, rocky slopes, SE MN","6-12 in",,"humus-rich, moist, well-drained, neutral to slightly acidic","light shade to full shade"
@@ -253,15 +253,17 @@
 "Morus","rubra","red mulberry",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Napaea","dioica","glade mallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","riverside, woodland borders, SE MN","6 ft",,"well-drained, humus-rich, moist","full sun to partial sun"
 "Nymphaea","odorata","American white water lily",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,"flower & groundcover","2","ponds, sloughs, marshes, swamps, east-central MN, NE MN",,,"submerged, rich","full sun"
-"Onoclea","sensibilis","sensitive fern",0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,"fern",,,,,,
+"Onoclea","sensibilis","sensitive fern",0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,"fern","2","open woods, swamps, N MN, E MN","12-30 in",,"wet to slightly moist, acidic","light shade"
 "Opuntia","humifusa","eastern prickly pear",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover","4","prairie, southern MN","8-12 in",,"well-drained, sandy","full sun"
 "Opuntia","macrorhia","plains prickly pear",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover","4","bedrock, SW MN",,,"well-drained, sandy, thin","full sun"
 "Opuntia","SPECIES","prickly pears",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover",,,,,,
-"Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern",,,,,,
+"Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","3","wooded swamps, marshes, savanna, E MN","30-36 in",,"acidic, moist","partial shade"
 "Osmunda","SPECIES","ferns",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern",,,,,,
+"Osmunda","claytonia","interrupted fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","2","woods, E MN",,,,
+"Osmunda","regalis","royal fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","3","swamps, NE MN","24-36 in",,"damp",
 "Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
 "Oryzopsis","hymenoides","Indian rice grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","NW MN","1-2 ft",,"well-drained, sandy","full sun to light shade"
-"Pellaea","atropurpurea","purple cliff brake",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Pellaea","atropurpurea","purple cliff brake",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","4","limestone cliffs, SE MN","6-20 in",,"humus-rich","light shade to partial sun"
 "Panicum","virgatum","switch grass",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"grass & sedge","4","mesic prairie, pondside, streamside, throughout MN","3-6 ft",,"average","full sun"
 "Parthenium","integrifolium","wild quinine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","open woodlands, SE MN","2-4 ft",,,"full sun to part shade"
 "Parthenocissus","quinquefolia","woodbine",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"vine",,,,,,
@@ -286,9 +288,9 @@
 "Polygonatum","biflorum","giant Solomon's seal",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","deciduous woods, mixed coniferous woods, floodplains, all but NE MN","1-3 ft",,"moist, humus-rich","partial sun to deep shade"
 "Polygonatum","pubescens","hairy Solomon's seal",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","woodlands, NE MN","12-28 in",,"moist, humus-rich","partial sun to deep shade"
 "Polygonatum","SPECIES","Solomon's seals",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
-"Polypodium","virginianum","rock-cap fern",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern",,,,,,
-"Polystichum","acrostichoides","Christmas fern",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern",,,,,,
-"Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Polypodium","virginianum","rock-cap fern",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,"fern","3","rocks, cliffs, E MN","4-12 in",,"moist","shade"
+"Polystichum","acrostichoides","Christmas fern",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,"fern","3","uplands, SE MN","18-24 in",,"fertile, well-drained","partial shade to full shade"
+"Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","gorges, NE MN",,,"moist",
 "Pontederia","cordata","pickerelweed",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"flower & groundcover","4","marshes, streams, shallow lakes, ponds, eastern MN","1-2 ft",,"fertile, heavy loam, submerged","full sun to partial shade"
 "Populus","deltoides","eastern cottonwood",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Populus","gradidentata","big-toothed aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
@@ -304,7 +306,7 @@
 "Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Prunus","SPECIES","plums",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Prunus","virginiana","chokeberry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
-"Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","woods, all but SW MN","13-48 in",,"well-drained","partial sun"
 "Pulsatilla","patens","pasque flower",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover","2","prairie, savanna, SW MN","6-12 in",,"dry, well-drained","full sun to very light shade"
 "Pycnanthemum","SPECIES","mountain mints",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Pycnanthemum","virginianum","Virginia mountain mint",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","mesic open woods, prairie, SW MN","2-3 ft",,"moist, humus-rich","full sun"
@@ -376,7 +378,7 @@
 "Taxus","canadensis","Canada yew",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer",,,,,,
 "Thaliactrum","dasycarpum","tall meadow rue",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairie, wetland margins, floodplains, throughout MN","4-6 ft",,"moist","full sun to deep shade"
 "Thaliactrum","dioicum","early meadow rue",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","woods, eastern MN","1-3 ft",,"fertile, moist, slightly acidic","light shade to deep shade"
-"Thelypteris","palustris","northern marsh fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Thelypteris","palustris","northern marsh fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","marshes, bogs, all but SW MN","18 in",,"damp",
 "Thuja","occidentails","white cedar",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"evergreen conifer",,,,,,
 "Tilia","americana","basswood",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
 "Tradescantia","bracteata","bracted spiderwort",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","4","prairie, savanna, SW MN","1-2 ft",,"lean, well-drained","full sun to light shade"
@@ -410,7 +412,7 @@
 "Viola","SPECIES","violets",0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,"flower & groundcover",,,,,,
 "Vitis","riparia","wild grape",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"vine",,,,,,
 "Waldsteinia","fragarioides","barren strawberry",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"flower & groundcover","4","open woods, savanna, NE MN","3-6 in",,"moist, acidic","full sun to light shade"
-"Woodsia","obtusa","blunt-lobed woodsia",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern",,,,,,
+"Woodsia","obtusa","blunt-lobed woodsia",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","rock crevices, S MN","6-18 in",,"neutral, humus-rich",
 "Zizia","aptera","heart-leaved alexanders",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","open woods, floodplains, prairie, throughout MN","1-2 ft",,,
 "Zizia","aurea","golden alexander",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","open woods, floodplains, prairie, throughout MN","1-3 ft",,"moist, well-drained","light shade to full sun"
 "Zizia","SPECIES","alexanders",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
