@@ -1,4 +1,6 @@
 library(tidyverse)
+library(arsenal)
+
 dat <- readxl::read_excel("data/native_plants.xlsx") %>%
   mutate_if(is.numeric, ~ replace(.x, is.na(.x), 0))
 
@@ -46,4 +48,14 @@ dup.type <- xtabs(~ Genus + Type, data = dat) %>%
   as.character()
 if(length(setdiff(dup.type, c("Salix", "Prunus", "Cornus", "Potentilla")))) stop("Some type/genus mismatches")
 if(anyNA(dat$Type)) stop("Missing type")
+if(any(str_extract(dat$Height, "[a-z]+$") %nin% c("in", "ft", NA))) stop("Height units")
 write.csv(dat, "data/native_plants_qc.csv", row.names = FALSE, na = "")
+
+dat2 <- dat %>%
+  mutate_at(vars(Zone, Habitat, Soil, Sun), strsplit, ", ") %>%
+  separate(Height, c("Height", "Height_units"), sep = " ") %>%
+  mutate(
+    Height_multiplier = if_else(Height_units == "in", 1/12, 1),
+    Min_height = Height_multiplier*as.numeric(if_else(grepl("-", Height), str_extract(Height, "^\\d+(\\.5)?"), Height)),
+    Max_height = Height_multiplier*as.numeric(if_else(grepl("-", Height), str_extract(Height, "\\d+(\\.5)?$"), Height))
+  )
