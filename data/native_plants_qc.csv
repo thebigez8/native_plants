@@ -1,11 +1,11 @@
 "Genus","Species","Common","Prairie","Deciduous_forest","Coniferous_forest","Deer_resistant","Mixed_border","Shade_garden","Butterfly_nectar","Butterfly_larval","Hummingbirds","Rock_sunny","Rock_shady","Pond","Shallow_water","Moist_soil","Groundcover","Front_yard_sunny","Front_yard_shady","Front_yard_woody","Type","Zone","Habitat","Height","Width","Soil","Sun"
 "Abies","balsamea","balsam fir",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"evergreen conifer",,,,,,
-"Acer","nigrum","black maple",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
-"Acer","rubrum","red maple",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"deciduous tree",,,,,,
-"Acer","saccharum","sugar maple",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
-"Acer","saccharinum","silver maple",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree",,,,,,
+"Acer","nigrum","black maple",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4","floodplains, bottomlands, SE MN",,,"moist",
+"Acer","rubrum","red maple",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"deciduous tree","4, most of 3","swamps, depressions, NE MN, east-central MN","40-65 ft","45 ft","slightly acidic, sandy loam, well-drained","full sun to light shade"
+"Acer","saccharum","sugar maple",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree","4","E MN","50-80 ft",,"rich, moist, heavy clay, loam",
+"Acer","saccharinum","silver maple",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree","3","E MN","40-80 ft",,"tough, wet to moist",
 "Acer","SPECIES","maples",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
-"Acer","spicatum","mountain maple",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
+"Acer","spicatum","mountain maple",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","SE MN, NE MN, streamside","25 ft","20 ft","moist, acidic","partial shade"
 "Actaea","pachypoda","white baneberry",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","eastern MN",,,"moist, humus-rich, slightly acidic","partial shade to full shade"
 "Actaea","rubra","red baneberry",0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","2","woodland, throughout MN","12-30 in",,"moist, humus-rich, slightly acidic","partial shade to full shade"
 "Actaea","SPECIES","baneberries",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover",,,,,,
@@ -216,15 +216,15 @@
 "Iris","versicolor","northern blue flag",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","2","prairie, ponds, shallow marshes, bogs, throughout MN","2-3 ft",,"wet, rich","full sun to light shade"
 "Isopyrum","biternatum","false rue anemone",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","deciduous woods, streamside, SE MN","8-12 in",,"humus-rich, moist","light shade to full shade"
 "Jeffersonia","diphylla","twinleaf",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","deciduous forest, sheltered ravine, N-facing slopes, E-facing slopes, far SE MN","6-15 in",,"moist, rich, neutral to alkaline","spring sun"
-"Juglans","cinerea","butternut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
-"Juglans","nigra","black walnut",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
+"Juglans","cinerea","butternut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","woods, flood plains, rocky slopes, E MN","40-65 ft",,,
+"Juglans","nigra","black walnut",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4, trial in 3","bottomlands, hillsides, S MN","50-80 ft","50 ft","neutral to slightly alkaline","full sun"
 "Juniperus","communis","bush juniper",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"evergreen conifer",,,,,,
 "Juniperus","horizontalis","creeping juniper",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"evergreen conifer",,,,,,
 "Juniperus","SPECIES","junipers",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"evergreen conifer",,,,,,
 "Juniperus","virginiana","easter red cedar",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"evergreen conifer",,,,,,
 "Kalmia","polifolia","bog laurel",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Koeleria","macrantha","June grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","paririe, savanna, all but NE MN","1-2 ft",,,
-"Larix","laricina","tamarack",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree",,,,,,
+"Larix","laricina","tamarack",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree","2","swamps, bogs, coniferous forest, N MN, east-central MN","40-70 ft","20-40 ft","moist","full sun"
 "Ledum","groenlandicum","labrador tea",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Lespedeza","capitata","round-headed bush clover",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","prairie, savanna, S MN","30-48 in",,"dry, well-drained, sandy","full sun to very light shade"
 "Liatris","aspera","rough blazing star",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover","3","prarie, savanna, SW MN","3-5 ft",,"sandy, loamy, moist, well-drained","full sun"
@@ -261,7 +261,7 @@
 "Osmunda","SPECIES","ferns",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern",,,,,,
 "Osmunda","claytonia","interrupted fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","2","woods, E MN",,,,
 "Osmunda","regalis","royal fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","3","swamps, NE MN","24-36 in",,"damp",
-"Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
+"Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree","4, trial in 3","throughout MN","20-40 ft","20-30 ft","cool, moist, well-drained, slightly acidic","full sun to heavy shade"
 "Oryzopsis","hymenoides","Indian rice grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","NW MN","1-2 ft",,"well-drained, sandy","full sun to light shade"
 "Pellaea","atropurpurea","purple cliff brake",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","4","limestone cliffs, SE MN","6-20 in",,"humus-rich","light shade to partial sun"
 "Panicum","virgatum","switch grass",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,"grass & sedge","4","mesic prairie, pondside, streamside, throughout MN","3-6 ft",,"average","full sun"
@@ -303,7 +303,7 @@
 "Prunus","americana","wild plum",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Prunus","pensylvanica","pin cherry",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Prunus","pumila","sand cherry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
-"Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
+"Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","S MN","50-75 ft","40-50 ft","moist, slightl acidic, fertile","full sun"
 "Prunus","SPECIES","plums",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Prunus","virginiana","chokeberry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","woods, all but SW MN","13-48 in",,"well-drained","partial sun"
@@ -311,11 +311,11 @@
 "Pycnanthemum","SPECIES","mountain mints",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Pycnanthemum","virginianum","Virginia mountain mint",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","mesic open woods, prairie, SW MN","2-3 ft",,"moist, humus-rich","full sun"
 "Quercus","SPECIES","oaks",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
-"Quercus","alba","white oak",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
-"Quercus","bicolor","swamp white oak",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,"deciduous tree",,,,,,
-"Quercus","ellipsoidalis","northern pin oak",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
-"Quercus","macrocarpa","bur oak",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
-"Quercus","rubra","red oak",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree",,,,,,
+"Quercus","alba","white oak",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree","4, trial in 3","SE MN","50-75 ft","40-60 ft","fertile, acidic, heavy","full sun"
+"Quercus","bicolor","swamp white oak",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,"deciduous tree","4","SE MN","40-65 ft",,,
+"Quercus","ellipsoidalis","northern pin oak",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree","3","E MN","45-65 ft",,,
+"Quercus","macrocarpa","bur oak",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree","3","throughout MN","50-80 ft",,,
+"Quercus","rubra","red oak",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"deciduous tree","4, trial in 3","E MN","50-80 ft",,"sandy loam, well-drained, acidic",
 "Ratibida","columnifera","Mexican hat, prairie coneflower",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, savanna, western MN","1-3 ft",,"average to rich, well-drained","full sun to light shade"
 "Ratibida","pinnata","gray-headed coneflower",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairie, savanna, S MN","3-5 ft",,"average to rich, well-drained","full sun to light shade"
 "Ratibida","SPECIES","coneflowers",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
