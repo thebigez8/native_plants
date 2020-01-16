@@ -75,7 +75,7 @@
 "Betula","nigra","river birch",0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,"deciduous tree","4, trial in 3","lowlands, SE MN","40-60 ft","15-25 ft","moist to wet, slightly acidic","full sun"
 "Betula","papyrifera","paper birch",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","2","all but SW MN","40-70 ft","20-30 ft","moist, cool","full sun"
 "Betula","SPECIES","birches",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
-"Boltonia","asteroides","boltonia",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover","4","prairies, marsh, S MN","3-5 ft",,"wet to dry","full sun"
+"Boltonia","asteroides","boltonia",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover","4","prairies, marshes, S MN","3-5 ft",,"wet to dry","full sun"
 "Bouteloua","curtipendula","side-oats grama",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","prairies, open woodlands, SW MN","2-3 ft",,"average to dry, well-drained","full sun"
 "Bouteloua","gracilis","blue grama",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","SW MN","1-2 ft",,"dry, gravelly",
 "Bouteloua","hirsuta","hairy grama",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","SW MN","2-3 ft",,"dry, well-drained loam",
@@ -190,7 +190,7 @@
 "Gleditsia","tracanthos","honey locust",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4","far SE MN","35-60 ft","25-40 ft","rich, moist","full sun"
 "Glyceria","canadensis","rattlesnake grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","shallow water, lakes, ponds, NE MN",,,,
 "Glyceria","grandis","tall manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","shallow water, lake margins, throughout MN","4-6 ft",,,
-"Glyceria","striata","fowl manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","forests, swamps, lake edges, throughout MN","2-3 ft",,"mosit to wet","partial sun to full shade"
+"Glyceria","striata","fowl manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","forests, swamps, lake edges, throughout MN","2-3 ft",,"moist to wet","partial sun to full shade"
 "Glyceria","SPECIES","manna grasses",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge",,,,,,
 "Guara","SPECIES","guaras",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Gymnocladus","dioica","Kentucky coffee tree",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree","4, trial in 3","river valleys, S MN","45-80 ft","50 ft","moist, rich","full sun"
@@ -248,7 +248,7 @@
 "Mertensia","virginica","Virginia bluebells",0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,"flower & groundcover","3","deciduous woods, floodplains, streamside, clearings, SE MN","12-24 in",,"moist, rich","partial sun to shade"
 "Mitchella","repens","partridgeberry",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","woodlands, pinelands, clearings, east-central MN","1-3 in",,"moist",
 "Mitella","diphylla","two-leaved miterwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","north-facing bluffs, rocky slopes, SE MN","6-12 in",,"humus-rich, moist, well-drained, neutral to slightly acidic","light shade to full shade"
-"Monarda","fistulosa","wild bergamot",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairies, clearings, savannas, throughout MN","2-4 ft",,"average to rih, well-drained","full sun to light shade"
+"Monarda","fistulosa","wild bergamot",1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairies, clearings, savannas, throughout MN","2-4 ft",,"average to rich, well-drained","full sun to light shade"
 "Monarda","SPECIES","wild bergamot, bee balms",0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover",,,,,,
 "Morus","rubra","red mulberry",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4","floodplains, SE MN","50 ft",,,
 "Napaea","dioica","glade mallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","riverside, woodland borders, SE MN","6 ft",,"well-drained, humus-rich, moist","full sun to partial sun"
@@ -272,7 +272,7 @@
 "Penstemon","SPECIES","beardtongues",0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Phlox","divaricata","blue phlox",0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,"flower & groundcover","3","mesic woods, deciduous woods, clearings, floodplains, S MN","10-20 in",,"well-drained, cool, humus-rich","partial shade to full shade"
 "Phlox","maculata","wild sweet William",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","woods, prairies, SE MN","2-3 ft",,"average to rich, moist, well-drained","full sun to light shade"
-"Phlox","pilosa","prairie phlox",1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairies, open woodlands, savannas, S 2/3 MN","10-30 in",,"sand, well-drained, slightly to moderately acidic","full sun to light shade"
+"Phlox","pilosa","prairie phlox",1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairies, open woodlands, savannas, S 2/3 MN","10-30 in",,"sand, well-drained, slightly acidic to moderately acidic","full sun to light shade"
 "Phlox","SPECIES","phloxes",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Phyostegia","virginiana","obedient plant",1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,"flower & groundcover","3","prairies, low woods, bottomlands, marsh borders, throughout MN","2-3 ft",,"moist, rich, well-drained","full sun to partial sun"
 "Physocarpus","opulifolius","ninebark",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree","2","streamside, lakeside, E MN","6-9 ft","6-9 ft","well-drained","full sun"
@@ -303,7 +303,7 @@
 "Prunus","americana","wild plum",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","3","woodland edges, S MN, W MN","15-20 ft","15-20 ft","well-drained","full sun"
 "Prunus","pensylvanica","pin cherry",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","3","open hillsides, throughout MN","15-30 ft",,,
 "Prunus","pumila","sand cherry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","3","open hillsides, throughout MN","1-3 ft",,,
-"Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","S MN","50-75 ft","40-50 ft","moist, slightl acidic, fertile","full sun"
+"Prunus","serotina","black cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","S MN","50-75 ft","40-50 ft","moist, slightly acidic, fertile","full sun"
 "Prunus","SPECIES","plums",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Prunus","virginiana","chokeberry",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","3, trial in 2","throughout MN","15-35 ft","25 ft",,
 "Pteridium","aquilinum","bracken",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","woods, all but SW MN","13-48 in",,"well-drained","partial sun"
