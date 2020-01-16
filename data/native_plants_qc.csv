@@ -59,7 +59,7 @@
 "Aster","cordifolius","heart-leaved aster",1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","open woods, clearings, SE MN","3-4 ft",,"moist, humus-rich","light shade to partial shade"
 "Aster","ericoides","heath aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, woodland edges, throughout MN","1-3 ft",,"average to rich, moist","full sun"
 "Aster","laevis","smooth aster",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"flower & groundcover","2","prairie, woodland edges, all but far NE MN","2-3 ft",,"average to rich, moist, well-drained","full sun to light shade"
-"Aster","lateriflorus","calico aster, side-flowering aster",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4, trial in 3","open woods, northern MN","2-4 ft",,"average to rich, well-drained","full sun to light shade"
+"Aster","lateriflorus","calico aster, side-flowering aster",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4, trial in 3","open woods, northern 2/3 MN","2-4 ft",,"average to rich, well-drained","full sun to light shade"
 "Aster","macrophyllus","large-leaved aster",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","woodland edges, NE MN","1-4 ft",,"moist, humus-rich","full sun to partial shade"
 "Aster","novae-angliae","New England aster",1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,"flower & groundcover","3","mesic prairie, SW MN","3-6 ft",,"moist, average","full sun to partial shade"
 "Aster","oblongifolius","aromatic aster",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, SW MN",,,,
@@ -113,7 +113,7 @@
 "Comptonia","peregrina","sweet fern",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"deciduous shrub & small tree","3, trial in 2","NE MN","1-4 ft","2-3 ft","dry, sandy, acidic",
 "Coreopsis","palmata","stiff tickseed",1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","4","prairie, central MN, SE MN","2-3 ft",,"moist to dry","full sun to light shade"
 "Coreopsis","SPECIES","coreopsis, tickseeds",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
-"Cornus","alternifolia","pagoda dogwood",0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree","3","open woodlands, E MN","20-25 ft","20-25 ft","cool, moist, slightly acidic","partial shade"
+"Cornus","alternifolia","pagoda dogwood",0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree","3","open woodlands, E 2/3 MN","20-25 ft","20-25 ft","cool, moist, slightly acidic","partial shade"
 "Cornus","canadensis","bunchberry",0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,"flower & groundcover","1","woodlands, bogs, NE MN","4-8 in",,"moist, acidic, humus-rich","light shade"
 "Cornus","racemosa","gray dogwood",1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,"deciduous shrub & small tree","4, trial in 3","open woods, throughout MN","8-12 ft","10 ft","moist, cool","full sun to partial shade"
 "Cornus","rugosa","round-leaved dogwood",0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree","2","woodlands, all but SW and W MN","10 ft",,,
@@ -154,7 +154,7 @@
 "Eryngium","yuccifolium","rattlesnake master",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","open woods, mesic prairies, southern MN","2-3 ft",,"average to rich, moist, well-drained","full sun"
 "Erythronium","albidum","white trout lily",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","deciduous woods, SE MN",,,"moist, rich, neutral","light shade to shade"
 "Erythronium","americanum","yellow trout lily",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","woods, streamside, SE MN","4-10 in",,"moist, rich","shade to spring sun"
-"Erythronium","propullans","dwarf trout lily",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","4","wooded slopes, streamside, east-central MN",,,,
+"Erythronium","propullans","dwarf trout lily",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","NR","wooded slopes, streamside, east-central MN",,,,
 "Erythronium","SPECIES","trout lilies",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover",,,,,,
 "Eupatorium","maculatum","spotted Joe-pye weed",0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairie, throughout MN","24-72 in",,"wet, average","full sun"
 "Eupatorium","perfoliatum","common boneset",0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairie, swamp edges, throughout MN","2-4 ft",,"moist to wet","full sun"
@@ -231,7 +231,7 @@
 "Liatris","cylindracea","cylindric blazing star",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover","3","prarie, savanna, open woods, SE MN","8-24 in",,"moist, fertile, well-drained","full sun"
 "Liatris","ligulistylis","northern plains blazing-star",0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,"flower & groundcover","3","prarire, marsh borders, all but far NE MN","3-5 ft",,"wet",
 "Liatris","punctata","dotted blazing star",0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairie, western MN, central MN","8-14 in",,,
-"Liatris","pycnostachya","great blazing star",1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,"flower & groundcover","3","prairie, savanna, southern MN","3-5 ft",,"moist, fertile, well-drained","full sun"
+"Liatris","pycnostachya","great blazing star",1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,"flower & groundcover","3","prairie, savanna, southern 2/3 MN","3-5 ft",,"moist, fertile, well-drained","full sun"
 "Liatris","SPECIES","blazing star",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"flower & groundcover",,,,,,
 "Lilium","michiganense","Michigan lily",1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"flower & groundcover","4","eastern MN","3-4 ft",,"wet, rich","full sun to light shade"
 "Lilium","philadelphicum","wood lily",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairie, open woodlands, throughout MN","1-3 ft",,"dry, average, acidic, well-drained","full sun to part sun"
@@ -272,7 +272,7 @@
 "Penstemon","SPECIES","beardtongues",0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Phlox","divaricata","blue phlox",0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,"flower & groundcover","3","mesic woods, deciduous woods, clearings, floodplains, S MN","10-20 in",,"well-drained, cool, humus-rich","partial shade to full shade"
 "Phlox","maculata","wild sweet William",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","woods, prarire, SE MN","2-3 ft",,"average to rich, moist, well-drained","full sun to light shade"
-"Phlox","pilosa","prairie phlox",1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairie, open woodlands, savanna, S MN","10-30 in",,"sand, well-drained, slightly to moderately acidic","full sun to light shade"
+"Phlox","pilosa","prairie phlox",1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairie, open woodlands, savanna, S 2/3 MN","10-30 in",,"sand, well-drained, slightly to moderately acidic","full sun to light shade"
 "Phlox","SPECIES","phloxes",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Phyostegia","virginiana","obedient plant",1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,"flower & groundcover","3","prairie, low woods, bottomlands, marsh borders, throughout MN","2-3 ft",,"moist, rich, well-drained","full sun to partial sun"
 "Physocarpus","opulifolius","ninebark",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree","2","streamside, lakeside, E MN","6-9 ft","6-9 ft","well-drained","full sun"
@@ -293,7 +293,7 @@
 "Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","gorges, NE MN",,,"moist",
 "Pontederia","cordata","pickerelweed",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"flower & groundcover","4","marshes, streams, shallow lakes, ponds, eastern MN","1-2 ft",,"fertile, heavy loam, submerged","full sun to partial shade"
 "Populus","deltoides","eastern cottonwood",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","streamside, riverside, lakeside, throughout MN","70-100 ft",,,
-"Populus","gradidentata","big-toothed aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","E MN",,,"moist",
+"Populus","gradidentata","big-toothed aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","E 2/3 MN",,,"moist",
 "Populus","SPECIES","poplars",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Populus","tremuloides","quaking aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","throughout MN","65 ft",,,
 "Potentilla","arguta","tall cinquefoil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","2","throughout MN","1-3 ft",,"dry","full sun"
@@ -391,7 +391,7 @@
 "Trillium","nivale","snow trillium",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","4","forest, bottomlands, southern MN","6 in",,"moist, humus-rich, limy","light shade to partial shade"
 "Trillium","SPECIES","trilliums",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover",,,,,,
 "Tsuga","canadensis","eastern hemlock",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"evergreen conifer","3","NE MN","40-60 ft","30-50 ft","cool, moist, well-drained, acidic","partial shade"
-"Ulmus","americana","American elm",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,"bottomlands, throughout MN","70-100 ft","50-70 ft",,
+"Ulmus","americana","American elm",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","NR","bottomlands, throughout MN","70-100 ft","50-70 ft",,
 "Ulmus","rubra","red elm",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","river bottoms, lowlands, S MN","50-70 ft",,,
 "Uvularia","grandiflora","large-flowered bellwort",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","deciduous woods, bottomlands, throughout MN","12-16 in",,"moist, average, neutral to limy","shade to spring sun"
 "Uvularia","sessilifolia","pale bellwort",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","woods, thickets, NE MN","4-12 in",,"moist, average, acidic","shade to spring sun"
