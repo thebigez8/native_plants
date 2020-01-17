@@ -191,5 +191,78 @@ dat2 <- dat %>%
     ph_tmp = map(ph_tmp, get_ph)
   ) %>%
   unnest(MN, Zone_tmp, Sun_tmp, moisture_tmp, ph_tmp) %>%
-  select(-Height2, -Height_units, -Height_multiplier, -Width2, -Width_units, -Width_multiplier)
+  select(-Height2, -Height_units, -Height_multiplier, -Width2, -Width_units, -Width_multiplier) %>%
+  mutate(Type = factor(Type, levels = sort(unique(Type))))
 write.csv(dat2, "data/native_plants_qc_split.csv", row.names = FALSE, na = "")
+
+dat.hide <- dat2 %>%
+  select_if(~ is.numeric(.x) || is.factor(.x))  %>%
+  mutate(Type = as.integer(Type)) %>%
+  mutate_all(~ replace(.x, is.na(.x), 2L))%>%
+  map2(names(.), ~ paste0("data-", gsub("_", "", tolower(.y)), '="', .x, '"')) %>%
+  do.call(what = paste) %>%
+  paste0("<tr ", ., ">\n")
+
+dat.boxes <- dat2 %>%
+  "["(c("Genus", "Species", names(features))) %>%
+  gather("N", "Y", -Genus, -Species) %>%
+  filter(Y == 1) %>%
+  select(-Y) %>%
+  mutate(
+    N = gsub("_", " ", tolower(N)),
+    N = case_when(
+      N == "deer resistant" ~ "deer resistance",
+      N == "butterfly larval" ~ "butterfly larvae",
+      N == "pond" ~ "ponds",
+      N %in% c("mixed border", "shade garden") ~ paste0(N, "s"),
+      TRUE ~ str_replace(N, " (shady|sunny|woody)", "s (\\1)")
+    ),
+    N = case_when(
+      N %in% c("coniferous forest", "deciduous forest", "prairie") ~ paste("native to", N),
+      TRUE ~ paste("good for", N)
+    )
+  ) %>%
+  group_by(Genus, Species) %>%
+  summarize(`Notable Features` = paste0(N, collapse = ", ")) %>%
+  ungroup()
+
+dat.show <- dat2 %>%
+  select_if(~ is.character(.x) || is.factor(.x)) %>%
+  (function(x) {if(anyNA(select(x, Genus, Species, Zone, Type))) stop('NAs'); x}) %>%
+  mutate(Type = as.character(Type)) %>%
+  left_join(dat.boxes, by = c("Genus", "Species")) %>%
+  mutate_all(~ replace(.x, is.na(.x), "-")) %>%
+  unite("Scientific Name", Genus, Species, sep = " ") %>%
+  mutate(`Scientific Name` = paste0("<i>", `Scientific Name`, "</i>")) %>%
+  mutate_all(~ paste0("  <td>", .x, "</td>\n")) %>%
+  as.list() %>%
+  do.call(what = paste0) %>%
+  paste0(dat.hide, ., "</tr>", collapse = "\n")
+
+nms <- dat2 %>%
+  select_if(~ is.character(.x) || is.factor(.x)) %>%
+  names() %>%
+  (function(x) c("Scientific Name", "Common Name", x[-(1:3)], "Notable Features")) %>%
+  paste0("  <th>", ., "</th>", collapse = "\n") %>%
+  paste0("<tr>\n", ., "\n</tr>")
+
+cat(
+  '<!DOCTYPE html>',
+  '<html lang="en">',
+  '<head>',
+  '  <title>MN Native Plants</title>',
+  '</head>',
+  '<body>',
+  '<table>',
+  '<thead>',
+  nms,
+  '</thead>',
+  '<tbody>',
+  dat.show,
+  '</tbody>',
+  '</table>',
+  '</body>',
+  '</html>',
+  sep = "\n", file = "html/native_plants.html"
+)
+
