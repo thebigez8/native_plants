@@ -190,10 +190,53 @@ dat2 <- dat %>%
     ph_tmp = map(strsplit(Soil, ", "), str_subset, pattern = "acid|alka|neutr|limy"),
     ph_tmp = map(ph_tmp, get_ph)
   ) %>%
-  unnest(MN, Zone_tmp, Sun_tmp, moisture_tmp, ph_tmp) %>%
+  unnest(c(MN, Zone_tmp, Sun_tmp, moisture_tmp, ph_tmp)) %>%
   select(-Height2, -Height_units, -Height_multiplier, -Width2, -Width_units, -Width_multiplier) %>%
   mutate(Type = factor(Type, levels = sort(unique(Type))))
 write.csv(dat2, "data/native_plants_qc_split.csv", row.names = FALSE, na = "")
+
+###########################################
+
+# I know I just undid all this above
+dat2 %>%
+  nest(
+    Zone_list = c(starts_with("Zone_")),
+    Sun_list = c(starts_with("Sun_")),
+    MN_list = c(starts_with("MN_")),
+    Moisture_list = c(starts_with("Moisture_")),
+    PH_list = c(starts_with("PH_")),
+    Feature_list = c(Prairie:Front_yard_woody)
+  ) %>%
+  mutate(id = paste(Genus, Species, sep = "-")) %>%
+  select(id, everything()) %>%
+  mutate_if(is.factor, as.character) %>%
+  mutate_if(is.character, ~ if_else(is.na(.x), '""', paste0('"', .x, '"'))) %>%
+  mutate_if(is.list, map_chr, function(L) {
+    L <- unlist(L)
+    L[is.na(L)] <- 2
+    n <- if(all(grepl("_\\d+", names(L)))) as.numeric(str_extract(names(L), "\\d+$")) else names(L)
+    out <- n[L == 1]
+    if(is.character(out) && length(out)) out <- paste0('"', out, '"')
+    paste0("[", paste0(out, collapse = ", "), "]")
+  }) %>%
+  (function(x) {
+    lapply(seq_len(nrow(x)), function(i) {
+      a <- unlist(x[i, ])
+      out <- paste0('    "', names(a), '": ', if_else(is.na(a), "null", a), collapse = ',\n')
+      paste0("  {\n", out, "\n  }")
+    })
+  }) %>%
+  paste0(collapse = ",\n") %>%
+  paste0("[\n", ., "\n]\n") %>%
+  cat(file = "html/native_plants.json")
+
+
+
+
+
+
+
+###########################################
 
 dat.hide <- dat2 %>%
   select(Genus, Species) %>%
