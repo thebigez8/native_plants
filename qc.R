@@ -196,12 +196,10 @@ dat2 <- dat %>%
 write.csv(dat2, "data/native_plants_qc_split.csv", row.names = FALSE, na = "")
 
 dat.hide <- dat2 %>%
-  select_if(~ is.numeric(.x) || is.factor(.x))  %>%
-  mutate(Type = as.integer(Type)) %>%
-  mutate_all(~ replace(.x, is.na(.x), 2L))%>%
-  map2(names(.), ~ paste0("data-", gsub("_", "", tolower(.y)), '="', .x, '"')) %>%
-  do.call(what = paste) %>%
-  paste0("<tr ", ., ">\n")
+  select(Genus, Species) %>%
+  unite(id, Genus, Species, sep = "-") %>%
+  pull(id) %>%
+  paste0('<tr id="', ., '">\n')
 
 dat.boxes <- dat2 %>%
   "["(c("Genus", "Species", names(features))) %>%
