@@ -38,7 +38,7 @@
 "Antennaria","plantaginifolia","Plantain-leaved pussytoes",1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover","3","open woodlands, woodland transition, band NW to SE MN","3-16 in",,"dry, poor, well-drained","full sun to partial shade"
 "Aquilegia","canadensis","Canada columbine",0,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,"flower & groundcover","3","rocky woods, savannas, throughout MN","12-24 in",,"moist to dry, average, well-drained","full sun to full shade"
 "Aralia","racemosa","American spikenard",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","deciduous woods, mixed coniferous woods, E MN","2-6 ft",,"rich, moist","partial shade to deep shade"
-"Aralia","nudecaulis","wild sarsaparilla",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","W MN","1-1.5 ft",,,
+"Aralia","nudicaulis","wild sarsaparilla",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","W MN","1-1.5 ft",,,
 "Arctostaphylos","uva-ursi","bearberry",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"deciduous shrub & small tree","3","rock outcrops, N MN, E MN","6-12 in","8 ft","dry, poor, acidic","full sun to light shade"
 "Arisaema","dracontium","green dragon",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","4","SE border MN","12-42 in",,"wet, rich","full sun to light shade"
 "Arisaema","SPECIES","Jack-in-the-Pulpits",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
@@ -130,7 +130,7 @@
 "Dalea","purpurea","purple prairie clover",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairies, savannas, open woods, SW MN","2-3 ft",,"moist to dry","full sun"
 "Delphinium","carolinianum","prairie larkspur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairies, savannas, woodland edges, SW MN","3-5 ft",,"sandy, well-drained","full sun to light shade"
 "Dentaria","laciniata","cut-leaved toothwort",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","deciduous woods, bottomlands, streamside, SE MN","4-12 in",,"moist, humus-rich","deep shade to spring sun"
-"Deschampsia","caespitosa","tufted hair grass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass & sedge","4","wetlands, lakeshores, N MN","3-4 ft",,"moist","full sun to partial shade"
+"Deschampsia","cespitosa","tufted hair grass",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"grass & sedge","4","wetlands, lakeshores, N MN","3-4 ft",,"moist","full sun to partial shade"
 "Desmodium","canadense","showy tick trefoil, Canada tick trefoil",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairies, woodland openings, SW MN","2-4 ft",,"clay, rich, well-drained to slightly damp","full sun to light shade"
 "Dicentra","canadensis","squirrel corn",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","4","deciduous forest, SE MN","6-12 in",,"moist, humus-rich","full sun to light shade"
 "Dicentra","cucullaria","Dutchman's breeches",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","rocky deciduous woods, all but NW MN","6-12 in",,"moist to dry","shade to spring sun"
@@ -163,7 +163,7 @@
 "Eupatorium","SPECIES","Joe-pye weeds",0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,"flower & groundcover",,,,,,
 "Euphorbia","corollata","flowering spurge",1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,"flower & groundcover","3","open woods, savannas, prairies, SE MN","2-4 ft",,"poor to average, well-drained","full sun to partial shade"
 "Euphorbia","marginata","snow-on-the-mountain",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","prairies, S MN",,,"dry, poor","full sun"
-"Euonymus","atropurpurea","wahoo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","2","streamside, riverside, floodplains, SE MN","20-25 ft","10-12 ft","rich, moist, slightly acidic, humus-rich","full sun to partial shade"
+"Euonymus","atropurpureus","wahoo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","2","streamside, riverside, floodplains, SE MN","20-25 ft","10-12 ft","rich, moist, slightly acidic, humus-rich","full sun to partial shade"
 "Fragaria","virginiana","wild strawberry",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"flower & groundcover","2","open woods, savannas, prairies, throughout MN","6 in",,"average to dry","full sun to partial sun"
 "Fraxinus","americana","white ash",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4, protected spots in 3","uplands, east-central MN, SE MN","50-95 ft",,"rich, moist","full sun"
 "Fraxinus","nigra","black ash",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"deciduous tree","2","deciduous forest, coniferous forest, wetlands, all but SW MN",,,,
@@ -187,7 +187,7 @@
 "Geum","rivale","purple avens",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","2","bogs, low woods, prairies, NE MN","1-2 ft",,"moist",
 "Geum","SPECIES","prairie smokes",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Geum","triflorum","prairie smoke",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,"flower & groundcover","2","prairies, savannas, SW MN","6-16 in",,"dry, average, well-drained","full sun to light shade"
-"Gleditsia","tracanthos","honey locust",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4","far SE MN","35-60 ft","25-40 ft","rich, moist","full sun"
+"Gleditsia","triacanthos","honey locust",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"deciduous tree","4","far SE MN","35-60 ft","25-40 ft","rich, moist","full sun"
 "Glyceria","canadensis","rattlesnake grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","shallow water, lakes, ponds, NE MN",,,,
 "Glyceria","grandis","tall manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","shallow water, lake margins, throughout MN","4-6 ft",,,
 "Glyceria","striata","fowl manna grass",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"grass & sedge","3","forests, swamps, lake edges, throughout MN","2-3 ft",,"moist to wet","partial sun to full shade"
@@ -259,7 +259,7 @@
 "Opuntia","SPECIES","prickly pears",0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"flower & groundcover",,,,,,
 "Osmunda","cinnamomea","Cinnamon fern",0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","3","wooded swamps, marshes, savannas, E MN","30-36 in",,"acidic, moist","partial shade"
 "Osmunda","SPECIES","ferns",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern",,,,,,
-"Osmunda","claytonia","interrupted fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","2","woods, E MN",,,,
+"Osmunda","claytoniana","interrupted fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","2","woods, E MN",,,,
 "Osmunda","regalis","royal fern",0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,"fern","3","swamps, NE MN","24-36 in",,"damp",
 "Ostrya","virginiana","ironwood",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree","4, trial in 3","throughout MN","20-40 ft","20-30 ft","cool, moist, well-drained, slightly acidic","full sun to heavy shade"
 "Oryzopsis","hymenoides","Indian rice grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"grass & sedge","3","NW MN","1-2 ft",,"well-drained, sandy","full sun to light shade"
@@ -274,16 +274,16 @@
 "Phlox","maculata","wild sweet William",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","woods, prairies, SE MN","2-3 ft",,"average to rich, moist, well-drained","full sun to light shade"
 "Phlox","pilosa","prairie phlox",1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,"flower & groundcover","3","prairies, open woodlands, savannas, S 2/3 MN","10-30 in",,"sand, well-drained, slightly acidic to moderately acidic","full sun to light shade"
 "Phlox","SPECIES","phloxes",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
-"Phyostegia","virginiana","obedient plant",1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,"flower & groundcover","3","prairies, low woods, bottomlands, marsh borders, throughout MN","2-3 ft",,"moist, rich, well-drained","full sun to partial sun"
+"Physostegia","virginiana","obedient plant",1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,"flower & groundcover","3","prairies, low woods, bottomlands, marsh borders, throughout MN","2-3 ft",,"moist, rich, well-drained","full sun to partial sun"
 "Physocarpus","opulifolius","ninebark",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous shrub & small tree","2","streamside, lakeside, E MN","6-9 ft","6-9 ft","well-drained","full sun"
 "Picea","glauca","white spruce",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer","2","banks of lakes, streamside, N MN, SE MN","40-60 ft","40 ft","well-drained, slightly acidic","full sun"
 "Picea","SPECIES","spruces",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer",,,,,,
 "Picea","mariana","black spruce",0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,"evergreen conifer","2","swamps, bogs, NE MN","20-50 ft",,,
-"Pinux","banksiana","jack pine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer","2","NE MN","20-60 ft",,"poor, sandy, acidic",
+"Pinus","banksiana","jack pine",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer","2","NE MN","20-60 ft",,"poor, sandy, acidic",
 "Pinus","resinosa","red pine",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer","3","NE MN","40-80 ft",,"sandy loam, dry","full sun"
 "Pinus","SPECIES","pines",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer",,,,,,
 "Pinus","strobus","white pine",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer","3","uplands, E MN","60-100 ft","50 ft","fertile, acidic, well-drained","full sun"
-"Podophyllum","peltaturn","May apple",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","open woods, clearings, SE MN","12-18 in",,"moist to damp, humus-rich","light shade to full shade"
+"Podophyllum","peltatum","May apple",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","open woods, clearings, SE MN","12-18 in",,"moist to damp, humus-rich","light shade to full shade"
 "Polemonium","reptans","spreading Jacob's ladder",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","deciduous woods, floodplains, SE MN","8-16 in",,"fertile, damp, slightly acidic","partial shade to full sun"
 "Polygonatum","biflorum","giant Solomon's seal",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","deciduous woods, mixed coniferous woods, floodplains, all but NE MN","1-3 ft",,"moist, humus-rich","partial sun to deep shade"
 "Polygonatum","pubescens","hairy Solomon's seal",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","3","woodlands, NE MN","12-28 in",,"moist, humus-rich","partial sun to deep shade"
@@ -293,7 +293,7 @@
 "Polystichum","braunii","Braun's holly fern",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","gorges, NE MN",,,"moist",
 "Pontederia","cordata","pickerelweed",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"flower & groundcover","4","marshes, streams, shallow lakes, ponds, E MN","1-2 ft",,"fertile, heavy loam, submerged","full sun to partial shade"
 "Populus","deltoides","eastern cottonwood",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","streamside, riverside, lakeside, throughout MN","70-100 ft",,,
-"Populus","gradidentata","big-toothed aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","E 2/3 MN",,,"moist",
+"Populus","grandidentata","big-toothed aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","E 2/3 MN",,,"moist",
 "Populus","SPECIES","poplars",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree",,,,,,
 "Populus","tremuloides","quaking aspen",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous tree","3","throughout MN","65 ft",,,
 "Potentilla","arguta","tall cinquefoil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","2","throughout MN","1-3 ft",,"dry","full sun"
@@ -332,7 +332,7 @@
 "Rudbeckia","triloba","three-leaved coneflower",0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairies, open woodlands","2-5 ft",,,
 "Ruellia","humilis","wild petunia",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","4","prairies, east-central MN","1-2 ft",,"well-drained","full sun"
 "Sagittaria","latifolia","broad-leaved arrowhead",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,"flower & groundcover","3","stream margins, ponds, throughout MN","12-36 in",,"fertile, heavy, loamy, submerged","full sun to light shade"
-"Sanguinaira","canadense","bloodroot",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","woods, floodplains, throughout MN","4-10 in",,"moist, humus-rich","shade to spring sun"
+"Sanguinaira","canadensis","bloodroot",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"flower & groundcover","3","woods, floodplains, throughout MN","4-10 in",,"moist, humus-rich","shade to spring sun"
 "Salix","amygdaloides","peach-leaved willow",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,"deciduous tree","3","throughout MN","40-60 ft",,,
 "Salix","discolor","pussy willow",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,"deciduous shrub & small tree","3, trial in 2","shores, swamps, wetlands, all but SW MN","10-20 ft","10-15 ft","moist to wet","full sun"
 "Salix","humilis","prairie willow",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,"deciduous shrub & small tree","2","shores, swamps, wetlands, all but SW MN",,,,
@@ -376,13 +376,13 @@
 "Symphoricarpos","occidentalis","wolfberry",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree","2","woodlands, NE MN","3 ft","3 ft",,
 "Symphoricarpos","SPECIES","snowberry, wolfberry",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"deciduous shrub & small tree",,,,,,
 "Taxus","canadensis","Canada yew",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"evergreen conifer","2","woods, bog margins, NE MN","3-6 ft","6-8 ft","slightly acidic","partial shade"
-"Thaliactrum","dasycarpum","tall meadow rue",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairies, wetland margins, floodplains, throughout MN","4-6 ft",,"moist","full sun to deep shade"
-"Thaliactrum","dioicum","early meadow rue",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","woods, E MN","1-3 ft",,"fertile, moist, slightly acidic","light shade to deep shade"
+"Thalictrum","dasycarpum","tall meadow rue",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"flower & groundcover","3","prairies, wetland margins, floodplains, throughout MN","4-6 ft",,"moist","full sun to deep shade"
+"Thalictrum","dioicum","early meadow rue",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"flower & groundcover","3","woods, E MN","1-3 ft",,"fertile, moist, slightly acidic","light shade to deep shade"
 "Thelypteris","palustris","northern marsh fern",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"fern","3","marshes, bogs, all but SW MN","18 in",,"damp",
-"Thuja","occidentails","white cedar",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"evergreen conifer","2","NE MN","30-50 ft","30 ft","moist","full sun to partial shade"
+"Thuja","occidentalis","white cedar",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"evergreen conifer","2","NE MN","30-50 ft","30 ft","moist","full sun to partial shade"
 "Tilia","americana","basswood",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"deciduous tree","3, protected spots in 2","throughout MN","50-90 ft","40-50 ft","moist, fertile, well-drained","full sun to partial shade"
 "Tradescantia","bracteata","bracted spiderwort",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","4","prairies, savannas, SW MN","1-2 ft",,"lean, well-drained","full sun to light shade"
-"Tradescantia","occidentails","Western spiderwort",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","savannas, prairies, east-central MN","12-18 in",,"lean, well-drained","full sun to light shade"
+"Tradescantia","occidentalis","Western spiderwort",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","savannas, prairies, east-central MN","12-18 in",,"lean, well-drained","full sun to light shade"
 "Tradescantia","ohiensis","Ohio spiderwort",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover","3","far SE MN","2-4 ft",,"lean, well-drained","full sun to light shade"
 "Tradescantia","SPECIES","spiderworts",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"flower & groundcover",,,,,,
 "Trientalis","borealis","starflower",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"flower & groundcover","2","woods, bogs, NE MN","4-8 in",,"moist, rich, acidic","full shade to partial shade"

@@ -736,9 +736,9 @@
     "Feature_list": ["Deciduous_forest", "Front_yard_shady"]
   },
   {
-    "id": "Aralia-nudecaulis",
+    "id": "Aralia-nudicaulis",
     "Genus": "Aralia",
-    "Species": "nudecaulis",
+    "Species": "nudicaulis",
     "Common": "wild sarsaparilla",
     "Type": "flower & groundcover",
     "Zone": "3",
@@ -2599,9 +2599,9 @@
     "Feature_list": ["Deciduous_forest", "Shade_garden"]
   },
   {
-    "id": "Deschampsia-caespitosa",
+    "id": "Deschampsia-cespitosa",
     "Genus": "Deschampsia",
-    "Species": "caespitosa",
+    "Species": "cespitosa",
     "Common": "tufted hair grass",
     "Type": "grass & sedge",
     "Zone": "4",
@@ -3243,9 +3243,9 @@
     "Feature_list": []
   },
   {
-    "id": "Euonymus-atropurpurea",
+    "id": "Euonymus-atropurpureus",
     "Genus": "Euonymus",
-    "Species": "atropurpurea",
+    "Species": "atropurpureus",
     "Common": "wahoo",
     "Type": "deciduous shrub & small tree",
     "Zone": "2",
@@ -3657,9 +3657,9 @@
     "Feature_list": ["Prairie", "Mixed_border", "Rock_sunny", "Front_yard_sunny"]
   },
   {
-    "id": "Gleditsia-tracanthos",
+    "id": "Gleditsia-triacanthos",
     "Genus": "Gleditsia",
-    "Species": "tracanthos",
+    "Species": "triacanthos",
     "Common": "honey locust",
     "Type": "deciduous tree",
     "Zone": "4",
@@ -4968,9 +4968,9 @@
     "Feature_list": ["Deciduous_forest", "Coniferous_forest", "Shade_garden", "Moist_soil", "Groundcover"]
   },
   {
-    "id": "Osmunda-claytonia",
+    "id": "Osmunda-claytoniana",
     "Genus": "Osmunda",
-    "Species": "claytonia",
+    "Species": "claytoniana",
     "Common": "interrupted fern",
     "Type": "fern",
     "Zone": "2",
@@ -5267,8 +5267,8 @@
     "Feature_list": ["Prairie", "Mixed_border", "Butterfly_nectar", "Hummingbirds", "Rock_sunny", "Front_yard_sunny"]
   },
   {
-    "id": "Phyostegia-virginiana",
-    "Genus": "Phyostegia",
+    "id": "Physostegia-virginiana",
+    "Genus": "Physostegia",
     "Species": "virginiana",
     "Common": "obedient plant",
     "Type": "flower & groundcover",
@@ -5359,8 +5359,8 @@
     "Feature_list": ["Coniferous_forest", "Deer_resistant", "Mixed_border", "Moist_soil"]
   },
   {
-    "id": "Pinux-banksiana",
-    "Genus": "Pinux",
+    "id": "Pinus-banksiana",
+    "Genus": "Pinus",
     "Species": "banksiana",
     "Common": "jack pine",
     "Type": "evergreen conifer",
@@ -5379,7 +5379,7 @@
     "MN_list": [3],
     "Moisture_list": [],
     "PH_list": [0],
-    "Feature_list": []
+    "Feature_list": ["Coniferous_forest", "Mixed_border"]
   },
   {
     "id": "Pinus-resinosa",
@@ -5428,9 +5428,9 @@
     "Feature_list": ["Coniferous_forest", "Mixed_border"]
   },
   {
-    "id": "Podophyllum-peltaturn",
+    "id": "Podophyllum-peltatum",
     "Genus": "Podophyllum",
-    "Species": "peltaturn",
+    "Species": "peltatum",
     "Common": "May apple",
     "Type": "flower & groundcover",
     "Zone": "3",
@@ -5635,9 +5635,9 @@
     "Feature_list": ["Butterfly_larval"]
   },
   {
-    "id": "Populus-gradidentata",
+    "id": "Populus-grandidentata",
     "Genus": "Populus",
-    "Species": "gradidentata",
+    "Species": "grandidentata",
     "Common": "big-toothed aspen",
     "Type": "deciduous tree",
     "Zone": "3",
@@ -6371,9 +6371,9 @@
     "Feature_list": ["Shallow_water"]
   },
   {
-    "id": "Sanguinaira-canadense",
+    "id": "Sanguinaira-canadensis",
     "Genus": "Sanguinaira",
-    "Species": "canadense",
+    "Species": "canadensis",
     "Common": "bloodroot",
     "Type": "flower & groundcover",
     "Zone": "3",
@@ -7199,8 +7199,8 @@
     "Feature_list": ["Coniferous_forest"]
   },
   {
-    "id": "Thaliactrum-dasycarpum",
-    "Genus": "Thaliactrum",
+    "id": "Thalictrum-dasycarpum",
+    "Genus": "Thalictrum",
     "Species": "dasycarpum",
     "Common": "tall meadow rue",
     "Type": "flower & groundcover",
@@ -7222,8 +7222,8 @@
     "Feature_list": ["Prairie", "Moist_soil"]
   },
   {
-    "id": "Thaliactrum-dioicum",
-    "Genus": "Thaliactrum",
+    "id": "Thalictrum-dioicum",
+    "Genus": "Thalictrum",
     "Species": "dioicum",
     "Common": "early meadow rue",
     "Type": "flower & groundcover",
@@ -7268,9 +7268,9 @@
     "Feature_list": ["Moist_soil"]
   },
   {
-    "id": "Thuja-occidentails",
+    "id": "Thuja-occidentalis",
     "Genus": "Thuja",
-    "Species": "occidentails",
+    "Species": "occidentalis",
     "Common": "white cedar",
     "Type": "evergreen conifer",
     "Zone": "2",
@@ -7337,9 +7337,9 @@
     "Feature_list": ["Deer_resistant", "Mixed_border", "Rock_sunny"]
   },
   {
-    "id": "Tradescantia-occidentails",
+    "id": "Tradescantia-occidentalis",
     "Genus": "Tradescantia",
-    "Species": "occidentails",
+    "Species": "occidentalis",
     "Common": "Western spiderwort",
     "Type": "flower & groundcover",
     "Zone": "3",
