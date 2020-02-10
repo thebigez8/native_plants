@@ -50,7 +50,6 @@ if(length(setdiff(dup.type, c("Salix", "Prunus", "Cornus", "Potentilla")))) stop
 if(anyNA(dat$Type)) stop("Missing type")
 if(any(str_extract(dat$Height, "[a-z]+$") %nin% c("in", "ft", NA))) stop("Height units")
 if(any(str_extract(dat$Width, "[a-z]+$") %nin% c("in", "ft", NA))) stop("Width units")
-write.csv(dat, "data/native_plants_qc.csv", row.names = FALSE, na = "")
 
 get_MN <- function(x)
 {
@@ -193,7 +192,119 @@ dat2 <- dat %>%
   unnest(c(MN, Zone_tmp, Sun_tmp, moisture_tmp, ph_tmp)) %>%
   select(-Height2, -Height_units, -Height_multiplier, -Width2, -Width_units, -Width_multiplier) %>%
   mutate(Type = factor(Type, levels = sort(unique(Type))))
-write.csv(dat2, "data/native_plants_qc_split.csv", row.names = FALSE, na = "")
+
+snas <- "https://raw.githubusercontent.com/thebigez8/scientific_natural_areas/master/snas.json" %>%
+  jsonlite::read_json() %>%
+  (function(x) tibble(
+    id = map_chr(x, "id"),
+    name = map_chr(x, "name"),
+    wildflower = map(x, c("species", "wildflower")),
+    grass_sedge = map(x, c("species", "grass_sedge")),
+    tree_shrub = map(x, c("species", "tree_shrub"))
+  )) %>%
+  pivot_longer(c(wildflower, grass_sedge, tree_shrub), names_to = "Type", values_to = "Species") %>%
+  filter(lengths(Species) > 0) %>%
+  unnest(c(Species)) %>%
+  mutate(
+    sname = map_chr(Species, "sname"),
+    cname = tolower(map_chr(Species, "cname"))
+  ) %>%
+  select(-Species) %>%
+  mutate_if(is.character, str_replace_all, pattern = "Â", replacement = "") %>%
+  mutate(
+    sname = case_when(
+      name %in% c("Antelope Valley SNA", "Cedar Rock SNA", "Shooting Star Prairie SNA", "Lester Lake SNA") ~ cname,
+      sname %in% c("Aromatic aster", "Bicknell's sedge", "Big bluestem", "Black ash", "Black spruce",
+                   "Bladder sedge", "Blue cohosh", "Blue grama grass", "Bluebead lily", "Bluets",
+                   "Yarrow", "Yellow birch", "Woolly sedge", "Woodbine") ~ cname,
+      TRUE ~ sname
+    ),
+    sname = str_to_sentence(sname),
+    sname = case_when(
+      sname == "Aristida basimirea" ~ "Aristida basiramea",
+      sname == "Apocynum canabinnum" ~ "Apocynum cannabinum",
+      sname == "Asclepias syraca" ~ "Asclepias syriaca",
+      sname == "Asclepias verticillatus" ~ "Asclepias verticillata",
+      sname == "Astragalus candadensis" ~ "Astragalus canadensis",
+      sname == "Berula erect" ~ "Berula erecta",
+      sname %in% c("Amorpha canascens", "Amorpho canescens") ~ "Amorpha canescens",
+      sname == "Apocynum androsaemifolia" ~ "Apocynum androsaemifolium",
+      sname == "Betula allegheniensis" ~ "Betula alleghaniensis",
+      sname == "Baptisa alba" ~ "Baptisia alba",
+      sname == "Andropogon gerardi" ~ "Andropogon gerardii",
+      sname == "Ambrosia artemesiifolia" ~ "Ambrosia artemisiifolia",
+      sname == "Antennaria plantaginafolia" ~ "Antennaria plantaginifolia",
+      sname == "Asclepias verticilatta" ~ "Asclepias verticillata",
+      sname == "Cyclachaena xanthifolia" ~ "Cyclachaena xanthiifolia",
+      sname == "Quecrus macrocarpa" ~ "Quercus macrocarpa",
+      sname %in% c("Salix pedicillaris", "Salix pedicellari") ~ "Salix pedicellaris",
+      sname == "Salix serisssima" ~ "Salix serissima",
+      sname == "Silene stellate" ~ "Silene stellata",
+      sname == "Ziza aurea" ~ "Zizia aurea",
+      sname == "Veronicastrum virginiana" ~ "Veronicastrum virginicum",
+      sname == "Vernonia faciculata" ~ "Vernonia fasciculata",
+      sname == "Vaccinium oxycoccus" ~ "Vaccinium oxycoccos",
+      sname == "Thalicrum dasycarpum" ~ "Thalictrum dasycarpum",
+      sname %in% c("Taraxanum officinale", "Taraxacum officianale") ~ "Taraxacum officinale",
+      sname == "Symphyotrichum sericeus" ~ "Symphyotrichum sericeum",
+      sname == "Symphyotrichum ciliolatus" ~ "Symphyotrichum ciliolatum",
+      sname == "Symphyotrichum laevis" ~ "Symphyotrichum laeve",
+      sname == "Quercus macrocarpo" ~ "Quercus macrocarpa",
+      sname == "Pycnanthemum virginiana" ~ "Pycnanthemum virginianum",
+      sname == "Prenanthes racemose" ~ "Prenanthes racemosa",
+      sname == "Populus deltoids" ~ "Populus deltoides",
+      sname == "Physalis heterophyla var heterophyla" ~ "Physalis heterophylla var heterophylla",
+      sname == "Penstemen albidis" ~ "Penstemon albidus",
+      sname %in% c("Patinica sativa", "Pastinica sativa") ~ "Pastinaca sativa",
+
+      sname %in% c("Melilotus officinale", "Melilotus offisinalis") ~ "Melilotus officinalis",
+      sname == "Lysimachia terresrris" ~ "Lysimachia terrestris",
+      sname == "Lotus corniculata" ~ "Lotus corniculatus",
+      sname == "Liatris ligulisytlis" ~ "Liatris ligulistylis",
+
+      TRUE ~ sname
+    ),
+
+    Genus = str_extract(sname, "^[A-z]+"),
+    Species = case_when(
+      grepl(" ", sname) ~ tolower(str_replace(sname, "[A-z]+\\s+((x )?[A-z-]+).*", "\\1")),
+      TRUE ~ ""
+    )
+  )
+
+snas2 <- snas %>%
+  mutate(name = sub("\\s+SNA\\s*$", "", name)) %>%
+  group_by(Genus, Species) %>%
+  summarize(
+    n = length(unique(name)),
+    name = paste0(name, collapse = ", "),
+    cname = paste0(unique(cname), collapse = ", "),
+    sname = paste0(unique(sname), collapse = ", "),
+  )
+
+if(FALSE)
+{
+  dat2 %>%
+    anti_join(snas2, by = c("Genus", "Species")) %>%
+    View()
+}
+snas3 <- snas %>%
+  mutate(name = sub("\\s+SNA\\s*$", "", name)) %>%
+  select(Genus, Species, SNA = name) %>%
+  group_by(Genus, Species) %>%
+  nest(SNA = c(SNA)) %>%
+  mutate(SNA = map(SNA, unlist, use.names = FALSE))
+
+snas3 %>%
+  mutate(SNA = map_chr(SNA, paste0, collapse = ", ")) %>%
+  left_join(x = dat2, by = c("Genus", "Species")) %>%
+  write.csv("data/native_plants_qc_split.csv", row.names = FALSE, na = "")
+
+snas3 %>%
+  mutate(SNA = map_chr(SNA, paste0, collapse = ", ")) %>%
+  left_join(x = dat, by = c("Genus", "Species")) %>%
+  write.csv("data/native_plants_qc.csv", row.names = FALSE, na = "")
+
 
 ###########################################
 
@@ -207,10 +318,12 @@ dat2 %>%
     PH_list = c(starts_with("PH_")),
     Feature_list = c(Prairie:Front_yard_woody)
   ) %>%
+  left_join(snas3, by = c("Genus", "Species")) %>%
   mutate(id = paste(Genus, Species, sep = "-")) %>%
   select(id, everything()) %>%
   mutate_if(is.factor, as.character) %>%
   mutate_if(is.character, ~ if_else(is.na(.x), '""', paste0('"', .x, '"'))) %>%
+  mutate(SNA = map_chr(SNA, ~ paste0("[", paste0('"', .x, '"', collapse = ", "), "]"))) %>%
   mutate_if(is.list, map_chr, function(L) {
     L <- unlist(L)
     L[is.na(L)] <- 2
