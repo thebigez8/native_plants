@@ -329,7 +329,7 @@ dat2 %>%
     L[is.na(L)] <- 2
     n <- if(all(grepl("_\\d+", names(L)))) as.numeric(str_extract(names(L), "\\d+$")) else names(L)
     out <- n[L == 1]
-    if(is.character(out) && length(out)) out <- paste0('"', out, '"')
+    if(is.character(out) && length(out)) out <- paste0('"', tolower(out), '"')
     paste0("[", paste0(out, collapse = ", "), "]")
   }) %>%
   (function(x) {
